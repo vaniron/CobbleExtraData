@@ -3,7 +3,7 @@
 ![GitHub License](https://img.shields.io/github/license/ArchieDxncan/CobbleExtraData?color=blue)  
 ![GitHub Issues](https://img.shields.io/github/issues/ArchieDxncan/CobbleExtraData)  
 
-**Cobblemon Extra Data** is a Minecraft mod designed as a sidemod for [Cobblemon](https://www.cobblemon.com/). It enhances the Pokémon data by appending additional information when a Pokémon is caught, such as:  
+**Cobblemon Extra Data** is a Minecraft mod designed as a sidemod for [Cobblemon](https://www.cobblemon.com/). It improves the Pokémon data by adding more information when a Pokémon is caught, such as:  
 - **Met Date**: The date the Pokémon was caught.  
 - **Met Location**: The location where the Pokémon was caught.  
 - **Met Level**: The level at which the Pokémon was caught.  

@@ -1,0 +1,36 @@
+{
+  "uuid": "610176b0-594f-3c1a-b889-ed063dbc06ea",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "cda52493-d18e-4beb-8f62-887a4c8a5822",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 2,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 0,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 0,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "grass": 1,
+      "dark": 1,
+      "flying": 1
+    },
+    "totalDefeatedCounts": {},
+    "aspectsCollected": {
+      "cobblemon:shroomish": [
+        "female"
+      ],
+      "cobblemon:murkrow": [
+        "female"
+      ]
+    }
+  }
+}

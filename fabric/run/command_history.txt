@@ -1,0 +1,5 @@
+/give Player340 cobblemon:master_ball
+/give Player972 cobblemon:master_ball
+/give Player397 cobblemon:master_ball
+/give Player304 cobblemon:master_ball
+/give Player734 cobblemon:master_ball

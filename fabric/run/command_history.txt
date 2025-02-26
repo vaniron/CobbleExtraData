@@ -3,3 +3,6 @@
 /give Player397 cobblemon:master_ball
 /give Player304 cobblemon:master_ball
 /give Player734 cobblemon:master_ball
+/give Player699 cobblemon:master_ball
+/give Player7 cobblemon:master_ball
+/givepokemon guzzlord

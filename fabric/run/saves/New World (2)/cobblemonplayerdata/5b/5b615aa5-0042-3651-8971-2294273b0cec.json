@@ -1,0 +1,53 @@
+{
+  "uuid": "5b615aa5-0042-3651-8971-2294273b0cec",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "4f038d8b-a87f-4597-a1f1-eb0310d9e26d",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 7,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 0,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 0,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 4,
+      "electric": 1,
+      "bug": 2,
+      "flying": 2
+    },
+    "totalDefeatedCounts": {},
+    "aspectsCollected": {
+      "cobblemon:lickitung": [
+        "male"
+      ],
+      "cobblemon:mareep": [
+        "male"
+      ],
+      "cobblemon:miltank": [
+        "female",
+        "milkable"
+      ],
+      "cobblemon:rattata": [
+        "male"
+      ],
+      "cobblemon:patrat": [
+        "male"
+      ],
+      "cobblemon:butterfree": [
+        "female"
+      ],
+      "cobblemon:ledian": [
+        "male"
+      ]
+    }
+  }
+}

@@ -12,10 +12,15 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.cobblemon.fabric.example.FabricModExample"
+      "com.cobblemon.fabric.example.EXTServer"
+    ],
+    "client": [
+      "com.cobblemon.fabric.example.EXTClient"
     ]
   },
   "depends": {
+    "fabric": "*",
+    "fabric-api": "*",
     "minecraft": "1.21.1",
     "cobblemon": ">=1.6.1"
   }

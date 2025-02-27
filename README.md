@@ -25,7 +25,7 @@ This mod is designed to work seamlessly with the [Cobblemon Transporter](https:/
 ## Installation
 
 1. **Download the Mod**:  
-   - Grab the latest release from the [Curseforge](https://curseforge.com/minecraft/mc-mods/cobblemon-extra-data) page.  
+   - Grab the latest release from the [Curseforge](https://curseforge.com/minecraft/mc-mods/cobblemon-extra-data) or [Modrinth](https://modrinth.com/mod/cobblemon-extra-data) page.  
 
 2. **Install Fabric**:  
    - Ensure you have the correct modloader installed.  

@@ -6,3 +6,7 @@
 /give Player699 cobblemon:master_ball
 /give Player7 cobblemon:master_ball
 /givepokemon guzzlord
+/givepokemon meowth alolan
+/spawnpokemon meowth galarian
+/spawnpokemon meowth galarian shiny
+/spawnpokemon articuno galarian shiny

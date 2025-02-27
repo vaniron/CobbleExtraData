@@ -22,7 +22,7 @@ public class EXTClient implements ClientModInitializer {
                 "Pokémon Info", // Keybinding name
                 InputConstants.Type.KEYSYM, // Input type
                 GLFW.GLFW_KEY_PERIOD, // Default key: period key
-                "key.categories.cobbleextradata" // Keybinding category
+                "Cobblemon Extra Data" // Keybinding category
         );
 
         KeyBindingHelper.registerKeyBinding(periodKeyBinding); // Register the keybinding

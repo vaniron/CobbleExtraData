@@ -1,0 +1,41 @@
+{
+  "uuid": "8900053b-f4fc-363a-959f-93166c198461",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "15509420-806b-42e7-ba96-b2c82234c2e6",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 3,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 0,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 0,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 2,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "steel": 2,
+      "psychic": 1,
+      "flying": 1
+    },
+    "totalDefeatedCounts": {},
+    "aspectsCollected": {
+      "cobblemon:meowth": [
+        "female",
+        "galarian",
+        "shiny",
+        "male"
+      ],
+      "cobblemon:articuno": [
+        "shiny",
+        "genderless",
+        "galarian"
+      ]
+    }
+  }
+}

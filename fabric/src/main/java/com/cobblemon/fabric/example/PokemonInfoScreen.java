@@ -23,12 +23,28 @@ public class PokemonInfoScreen extends Screen {
     protected PokemonInfoScreen(Pokemon pokemon) {
         super(Component.literal("Pokémon Info"));
         this.pokemon = pokemon;
-        String originMarkSprite = pokemon.getPersistentData().getString("OriginGame").toLowerCase();;
+        String originMarkSprite = pokemon.getPersistentData().getString("OriginGame").toLowerCase();
 
-        // Assuming the species name is in lowercase and matches the file name
+        // Determine the sprite path based on whether the Pokémon is shiny and its form
         String speciesName = pokemon.getSpecies().getName().toLowerCase();
-        this.pokemonSprite = ResourceLocation.fromNamespaceAndPath("cobblemon_multiplatform_mdk", "textures/sprites/regular/" + speciesName + ".png");
-        this.originMark = ResourceLocation.fromNamespaceAndPath("cobblemon_multiplatform_mdk", "textures/origin/" + originMarkSprite + ".png");
+        String formName = pokemon.getForm().getName().toLowerCase();
+        String spritePath = "textures/sprites/";
+
+        // Check if the Pokémon is shiny
+        if (pokemon.getShiny()) {
+            spritePath += "shiny/";
+        } else {
+            spritePath += "regular/";
+        }
+
+        // Append the form name if it exists (e.g., "meowth-alola")
+        if (!formName.isEmpty() && !formName.equals("normal")) {
+            speciesName += "-" + formName;
+        }
+
+        // Construct the sprite path
+        this.pokemonSprite = ResourceLocation.fromNamespaceAndPath("cobblemonextradata", spritePath + speciesName + ".png");
+        this.originMark = ResourceLocation.fromNamespaceAndPath("cobblemonextradata", "textures/origin/" + originMarkSprite + ".png");
     }
 
     @Override
@@ -42,7 +58,6 @@ public class PokemonInfoScreen extends Screen {
         int panelHeight = 120; // Adjusted height for better fit
         int x = (this.width - panelWidth) / 2; // Center horizontally
         int y = (this.height - panelHeight) / 2; // Center vertically
-
 
         // Size of the Pokémon sprite
         int spriteWidth = 68;
@@ -130,7 +145,6 @@ public class PokemonInfoScreen extends Screen {
         }
         return capitalized.toString().trim();
     }
-
 
     @Override
     public boolean shouldCloseOnEsc() {

@@ -61,9 +61,9 @@ public class EXTServer implements ModInitializer {
             pokemon.getPersistentData().putString("OriginGame", "Cobblemon");
 
             LOGGER.info("Pokémon event handled successfully:");
-            LOGGER.info("Met Date: " + metDate);
-            LOGGER.info("Met Biome: " + biomeName);
-            LOGGER.info("Met Level: " + metLevel);
+            LOGGER.info("Met Date: {}", metDate);
+            LOGGER.info("Met Biome: {}", biomeName);
+            LOGGER.info("Met Level: {}", metLevel);
         } catch (Exception e) {
             logError("PokemonEvent", e);
         }
@@ -71,6 +71,6 @@ public class EXTServer implements ModInitializer {
 
     private void logError(String eventName, Exception e) {
         // Generalized error logging for event handlers
-        LOGGER.error("An error occurred in the " + eventName + " event handler:", e);
+        LOGGER.error("An error occurred in the {} event handler:", eventName, e);
     }
 }

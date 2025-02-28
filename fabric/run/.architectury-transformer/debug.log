@@ -128,15 +128,15 @@
 [Architectury Transformer DEBUG]  - E:\MINECRAFT MODS\CobbleExtraData\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_1_layered_hash_40359_v2\net\fabricmc\fabric-api\fabric-resource-loader-v0\1.3.1+5b5275af19\fabric-resource-loader-v0-1.3.1+5b5275af19.jar
 [Architectury Transformer DEBUG]  - E:\MINECRAFT MODS\CobbleExtraData\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_1_layered_hash_40359_v2\net\fabricmc\fabric-api\fabric-sound-api-v1\1.0.23+6573ed8c19\fabric-sound-api-v1-1.0.23+6573ed8c19.jar
 [Architectury Transformer DEBUG]  - E:\MINECRAFT MODS\CobbleExtraData\.gradle\loom-cache\remapped_mods\loom_mappings_1_21_1_layered_hash_40359_v2\net\fabricmc\fabric-api\fabric-transitive-access-wideners-v1\6.2.0+45b9699719\fabric-transitive-access-wideners-v1-6.2.0+45b9699719.jar
-[Architectury Transformer] Read classpath in 2.971 s
+[Architectury Transformer] Read classpath in 2.961 s
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.23\dbaadea1f5e68f790d242a91a38355a83ec38747\kotlin-stdlib-1.9.23.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.23\dbaadea1f5e68f790d242a91a38355a83ec38747\kotlin-stdlib-1.9.23.jar to C:\Users\HOMEPC~1\AppData\Local\Temp\13541739213473754676.jar: 
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.23\dbaadea1f5e68f790d242a91a38355a83ec38747\kotlin-stdlib-1.9.23.jar to C:\Users\HOMEPC~1\AppData\Local\Temp\2618754501268908477.jar: 
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@60a2630a
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@29df4d43
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@5dd91bca
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@40cb698e
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@3382f8ae
-[Architectury Transformer DEBUG] Transforming from C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.23\dbaadea1f5e68f790d242a91a38355a83ec38747\kotlin-stdlib-1.9.23.jar to C:\Users\HOMEPC~1\AppData\Local\Temp\13541739213473754676.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming from C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.23\dbaadea1f5e68f790d242a91a38355a83ec38747\kotlin-stdlib-1.9.23.jar to C:\Users\HOMEPC~1\AppData\Local\Temp\2618754501268908477.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ArrayIntrinsicsKt with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing kotlin/BuilderInference with maxs=true frames=true
@@ -1116,16 +1116,16 @@
 [Architectury Transformer DEBUG] Writing kotlin/streams/jdk8/StreamsKt$asSequence$$inlined$Sequence$3 with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing kotlin/streams/jdk8/StreamsKt$asSequence$$inlined$Sequence$4 with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing kotlin/streams/jdk8/StreamsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\HOMEPC~1\AppData\Local\Temp\13541739213473754676.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\HOMEPC~1\AppData\Local\Temp\2618754501268908477.jar
 [Architectury Transformer] Listening at C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.23\dbaadea1f5e68f790d242a91a38355a83ec38747\kotlin-stdlib-1.9.23.jar
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar to C:\Users\HOMEPC~1\AppData\Local\Temp\4020116297612657154.jar: 
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar to C:\Users\HOMEPC~1\AppData\Local\Temp\9709665296257033981.jar: 
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@71c905a3
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@30af7377
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@67a056f1
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@1dab9dd6
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@247667dd
-[Architectury Transformer DEBUG] Transforming from C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar to C:\Users\HOMEPC~1\AppData\Local\Temp\4020116297612657154.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming from C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar to C:\Users\HOMEPC~1\AppData\Local\Temp\9709665296257033981.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing org/intellij/lang/annotations/Flow with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/intellij/lang/annotations/Identifier with maxs=true frames=true
@@ -1159,1072 +1159,1072 @@
 [Architectury Transformer DEBUG] Writing org/jetbrains/annotations/Nullable with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/jetbrains/annotations/PropertyKey with maxs=true frames=true
 [Architectury Transformer DEBUG] Writing org/jetbrains/annotations/TestOnly with maxs=true frames=true
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\HOMEPC~1\AppData\Local\Temp\4020116297612657154.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\HOMEPC~1\AppData\Local\Temp\9709665296257033981.jar
 [Architectury Transformer] Listening at C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar
 [Architectury Transformer DEBUG] Closed File Systems for E:\MINECRAFT MODS\CobbleExtraData\common\build\devlibs\common-1.0.0-SNAPSHOT-dev.jar
-[Architectury Transformer DEBUG] Transforming 5 transformer(s) from E:\MINECRAFT MODS\CobbleExtraData\common\build\devlibs\common-1.0.0-SNAPSHOT-dev.jar to C:\Users\HOMEPC~1\AppData\Local\Temp\16915572882605581945.jar: 
+[Architectury Transformer DEBUG] Transforming 5 transformer(s) from E:\MINECRAFT MODS\CobbleExtraData\common\build\devlibs\common-1.0.0-SNAPSHOT-dev.jar to C:\Users\HOMEPC~1\AppData\Local\Temp\3970747828119955867.jar: 
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RuntimeMixinRefmapDetector@44afefd5
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.GenerateFakeFabricMod@9a7a808
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformExpectPlatform@72209d93
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.RemapInjectables@2687f956
 [Architectury Transformer DEBUG]  - dev.architectury.transformer.transformers.TransformPlatformOnly@1ded7b14
-[Architectury Transformer DEBUG] Transforming from E:\MINECRAFT MODS\CobbleExtraData\common\build\devlibs\common-1.0.0-SNAPSHOT-dev.jar to C:\Users\HOMEPC~1\AppData\Local\Temp\16915572882605581945.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
+[Architectury Transformer DEBUG] Transforming from E:\MINECRAFT MODS\CobbleExtraData\common\build\devlibs\common-1.0.0-SNAPSHOT-dev.jar to C:\Users\HOMEPC~1\AppData\Local\Temp\3970747828119955867.jar with 5 transformer(s) on dev.architectury.transformer.handler.SimpleTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing com/cobblemon/common/example/ExampleCommandRegistry with maxs=true frames=true
-[Architectury Transformer DEBUG] Closed File Systems for C:\Users\HOMEPC~1\AppData\Local\Temp\16915572882605581945.jar
+[Architectury Transformer DEBUG] Closed File Systems for C:\Users\HOMEPC~1\AppData\Local\Temp\3970747828119955867.jar
 [Architectury Transformer] Listening at E:\MINECRAFT MODS\CobbleExtraData\common\build\devlibs\common-1.0.0-SNAPSHOT-dev.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\HOMEPC~1\AppData\Local\Temp\13541739213473754676.jar] contains packages: kotlin.js, kotlin.coroutines.jvm.internal, kotlin.collections.jdk8, kotlin.io.encoding, kotlin.experimental, kotlin.ranges, kotlin.system, kotlin.annotation, kotlin.time, kotlin.streams.jdk8, kotlin.jvm.jdk8, kotlin.io.path, kotlin.internal, kotlin.collections, kotlin.coroutines.cancellation, kotlin.random.jdk8, kotlin.contracts, kotlin.time.jdk8, kotlin.collections.unsigned, kotlin.math, kotlin.internal.jdk7, kotlin.concurrent, kotlin.internal.jdk8, kotlin.coroutines.intrinsics, kotlin.io, kotlin.coroutines, kotlin, kotlin.jvm.optionals, kotlin.text, kotlin.jvm.internal, kotlin.jvm, kotlin.collections.builders, kotlin.comparisons, kotlin.jvm.functions, META-INF.versions.9, kotlin.properties, kotlin.sequences, kotlin.reflect, kotlin.random, kotlin.jvm.internal.unsafe, kotlin.jdk7, kotlin.text.jdk8, kotlin.jvm.internal.markers, kotlin.enums
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\HOMEPC~1\AppData\Local\Temp\2618754501268908477.jar] contains packages: kotlin.js, kotlin.coroutines.jvm.internal, kotlin.collections.jdk8, kotlin.io.encoding, kotlin.experimental, kotlin.ranges, kotlin.system, kotlin.annotation, kotlin.time, kotlin.streams.jdk8, kotlin.jvm.jdk8, kotlin.io.path, kotlin.internal, kotlin.collections, kotlin.coroutines.cancellation, kotlin.random.jdk8, kotlin.contracts, kotlin.time.jdk8, kotlin.collections.unsigned, kotlin.math, kotlin.internal.jdk7, kotlin.concurrent, kotlin.internal.jdk8, kotlin.coroutines.intrinsics, kotlin.io, kotlin.coroutines, kotlin, kotlin.jvm.optionals, kotlin.text, kotlin.jvm.internal, kotlin.jvm, kotlin.collections.builders, kotlin.comparisons, kotlin.jvm.functions, META-INF.versions.9, kotlin.properties, kotlin.sequences, kotlin.reflect, kotlin.random, kotlin.jvm.internal.unsafe, kotlin.jdk7, kotlin.text.jdk8, kotlin.jvm.internal.markers, kotlin.enums
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.23\dbaadea1f5e68f790d242a91a38355a83ec38747\kotlin-stdlib-1.9.23.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\HOMEPC~1\AppData\Local\Temp\4020116297612657154.jar] contains packages: org.intellij.lang.annotations, org.jetbrains.annotations
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\HOMEPC~1\AppData\Local\Temp\9709665296257033981.jar] contains packages: org.intellij.lang.annotations, org.jetbrains.annotations
 [Architectury Transformer DEBUG] Closed File Systems for C:\Users\home pc\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\13.0\919f0dfe192fb4e063e7dacadee7f8bb9a2672a9\annotations-13.0.jar
-[Architectury Transformer DEBUG] Temporary jar [C:\Users\HOMEPC~1\AppData\Local\Temp\16915572882605581945.jar] contains packages: com.cobblemon.common.example
+[Architectury Transformer DEBUG] Temporary jar [C:\Users\HOMEPC~1\AppData\Local\Temp\3970747828119955867.jar] contains packages: com.cobblemon.common.example
 [Architectury Transformer DEBUG] Closed File Systems for E:\MINECRAFT MODS\CobbleExtraData\common\build\devlibs\common-1.0.0-SNAPSHOT-dev.jar
 [Architectury Transformer DEBUG] Classpath entry [E:\MINECRAFT MODS\CobbleExtraData\fabric\build\resources\main] contains packages: 
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/Intrinsics.class to kotlin/jvm/internal/Intrinsics.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/Intrinsics with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Intrinsics in 2.417 ms
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Intrinsics in 2.534 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/UninitializedPropertyAccessException.class to kotlin/UninitializedPropertyAccessException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/UninitializedPropertyAccessException with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/UninitializedPropertyAccessException in 348.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/UninitializedPropertyAccessException in 283.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/KotlinNullPointerException.class to kotlin/KotlinNullPointerException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/KotlinNullPointerException with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/KotlinNullPointerException in 201.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/KotlinNullPointerException in 130.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/markers/KMappedMarker.class to kotlin/jvm/internal/markers/KMappedMarker.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/markers/KMappedMarker with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/markers/KMappedMarker in 265.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/markers/KMappedMarker in 546.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function1.class to kotlin/jvm/functions/Function1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function1 in 665.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function1 in 943.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/Function.class to kotlin/Function.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/Function with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/Function in 137.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/Function in 150.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/KotlinNothingValueException.class to kotlin/KotlinNothingValueException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/KotlinNothingValueException with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/KotlinNothingValueException in 279.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/KotlinNothingValueException in 476.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/enums/EnumEntriesKt.class to kotlin/enums/EnumEntriesKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/enums/EnumEntriesKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/enums/EnumEntriesKt in 536.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/enums/EnumEntriesKt in 715.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/enums/EnumEntriesList.class to kotlin/enums/EnumEntriesList.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/enums/EnumEntriesList with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/enums/EnumEntriesList in 499.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/enums/EnumEntriesList in 599.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/enums/EnumEntries.class to kotlin/enums/EnumEntries.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/enums/EnumEntries with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/enums/EnumEntries in 136.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/enums/EnumEntries in 113.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/AbstractList.class to kotlin/collections/AbstractList.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/AbstractList with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/AbstractList in 583.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/AbstractList in 365.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/AbstractCollection.class to kotlin/collections/AbstractCollection.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/AbstractCollection with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/AbstractCollection in 352.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/AbstractCollection in 330.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/AbstractList$Companion.class to kotlin/collections/AbstractList$Companion.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/AbstractList$Companion with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/AbstractList$Companion in 364.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/AbstractList$Companion in 285.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/Unit.class to kotlin/Unit.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/Unit with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/Unit in 334.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/Unit in 302.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/NoWhenBranchMatchedException.class to kotlin/NoWhenBranchMatchedException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/NoWhenBranchMatchedException with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/NoWhenBranchMatchedException in 473.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/NoWhenBranchMatchedException in 667.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KProperty.class to kotlin/reflect/KProperty.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KProperty with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty in 335.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty in 389.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KCallable.class to kotlin/reflect/KCallable.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KCallable with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KCallable in 195.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KCallable in 232.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KAnnotatedElement.class to kotlin/reflect/KAnnotatedElement.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KAnnotatedElement with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KAnnotatedElement in 162.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KAnnotatedElement in 148.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/MutablePropertyReference1Impl.class to kotlin/jvm/internal/MutablePropertyReference1Impl.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/MutablePropertyReference1Impl with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/MutablePropertyReference1Impl in 239.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/MutablePropertyReference1Impl in 283.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/MutablePropertyReference1.class to kotlin/jvm/internal/MutablePropertyReference1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/MutablePropertyReference1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/MutablePropertyReference1 in 220.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/MutablePropertyReference1 in 202.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KMutableProperty1.class to kotlin/reflect/KMutableProperty1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KMutableProperty1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KMutableProperty1 in 162.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KMutableProperty1 in 175.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KProperty1.class to kotlin/reflect/KProperty1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KProperty1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty1 in 178.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty1 in 181.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KMutableProperty.class to kotlin/reflect/KMutableProperty.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KMutableProperty with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KMutableProperty in 153.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KMutableProperty in 200.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/MutablePropertyReference.class to kotlin/jvm/internal/MutablePropertyReference.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/MutablePropertyReference with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/MutablePropertyReference in 181.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/MutablePropertyReference in 186.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/PropertyReference.class to kotlin/jvm/internal/PropertyReference.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/PropertyReference with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/PropertyReference in 312.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/PropertyReference in 388.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/CallableReference.class to kotlin/jvm/internal/CallableReference.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/CallableReference with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/CallableReference in 299.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/CallableReference in 362.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KDeclarationContainer.class to kotlin/reflect/KDeclarationContainer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KDeclarationContainer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KDeclarationContainer in 162.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KDeclarationContainer in 155.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/KotlinReflectionNotSupportedError.class to kotlin/jvm/KotlinReflectionNotSupportedError.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/KotlinReflectionNotSupportedError with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/KotlinReflectionNotSupportedError in 176.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/KotlinReflectionNotSupportedError in 192.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KProperty$Getter.class to kotlin/reflect/KProperty$Getter.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KProperty$Getter with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty$Getter in 252.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty$Getter in 153.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KProperty$Accessor.class to kotlin/reflect/KProperty$Accessor.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KProperty$Accessor with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty$Accessor in 239.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty$Accessor in 160.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KFunction.class to kotlin/reflect/KFunction.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KFunction with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KFunction in 186.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KFunction in 188.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KMutableProperty$Setter.class to kotlin/reflect/KMutableProperty$Setter.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KMutableProperty$Setter with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KMutableProperty$Setter in 145.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KMutableProperty$Setter in 158.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/CallableReference$NoReceiver.class to kotlin/jvm/internal/CallableReference$NoReceiver.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/CallableReference$NoReceiver with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/CallableReference$NoReceiver in 295.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/CallableReference$NoReceiver in 247.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/Reflection.class to kotlin/jvm/internal/Reflection.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/Reflection with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Reflection in 544.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Reflection in 685.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KClassifier.class to kotlin/reflect/KClassifier.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KClassifier with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KClassifier in 211.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KClassifier in 164.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/ReflectionFactory.class to kotlin/jvm/internal/ReflectionFactory.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/ReflectionFactory with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/ReflectionFactory in 429.9 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/reflect/KType.class to kotlin/reflect/KType.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/reflect/KType with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KType in 193.2 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/FunctionBase.class to kotlin/jvm/internal/FunctionBase.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/jvm/internal/FunctionBase with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/FunctionBase in 155.8 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/reflect/KMutableProperty0.class to kotlin/reflect/KMutableProperty0.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/reflect/KMutableProperty0 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KMutableProperty0 in 163.6 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/reflect/KProperty0.class to kotlin/reflect/KProperty0.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/reflect/KProperty0 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty0 in 149.8 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function0.class to kotlin/jvm/functions/Function0.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function0 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function0 in 179.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/ReflectionFactory in 559.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KTypeParameter.class to kotlin/reflect/KTypeParameter.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KTypeParameter with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KTypeParameter in 246.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KTypeParameter in 182.5 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/reflect/KType.class to kotlin/reflect/KType.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing kotlin/reflect/KType with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KType in 159.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KClass.class to kotlin/reflect/KClass.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KClass with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KClass in 237.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KClass in 226.8 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/reflect/KMutableProperty0.class to kotlin/reflect/KMutableProperty0.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing kotlin/reflect/KMutableProperty0 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KMutableProperty0 in 183.5 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/reflect/KProperty0.class to kotlin/reflect/KProperty0.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing kotlin/reflect/KProperty0 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty0 in 162.6 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function0.class to kotlin/jvm/functions/Function0.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function0 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function0 in 145.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KMutableProperty2.class to kotlin/reflect/KMutableProperty2.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KMutableProperty2 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KMutableProperty2 in 190.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KMutableProperty2 in 167.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KProperty2.class to kotlin/reflect/KProperty2.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KProperty2 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty2 in 218.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty2 in 195.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function2.class to kotlin/jvm/functions/Function2.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function2 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function2 in 192.6 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/MutablePropertyReference0.class to kotlin/jvm/internal/MutablePropertyReference0.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function2 in 202.5 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/FunctionBase.class to kotlin/jvm/internal/FunctionBase.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/jvm/internal/MutablePropertyReference0 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/MutablePropertyReference0 in 293.1 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/MutablePropertyReference2.class to kotlin/jvm/internal/MutablePropertyReference2.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/jvm/internal/MutablePropertyReference2 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/MutablePropertyReference2 in 249.4 μs
+[Architectury Transformer DEBUG] Writing kotlin/jvm/internal/FunctionBase with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/FunctionBase in 154.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/FunctionReference.class to kotlin/jvm/internal/FunctionReference.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/FunctionReference with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/FunctionReference in 417.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/FunctionReference in 488.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/ClassBasedDeclarationContainer.class to kotlin/jvm/internal/ClassBasedDeclarationContainer.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/ClassBasedDeclarationContainer with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/ClassBasedDeclarationContainer in 269.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/ClassBasedDeclarationContainer in 215.7 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/MutablePropertyReference0.class to kotlin/jvm/internal/MutablePropertyReference0.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing kotlin/jvm/internal/MutablePropertyReference0 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/MutablePropertyReference0 in 234.3 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/MutablePropertyReference2.class to kotlin/jvm/internal/MutablePropertyReference2.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing kotlin/jvm/internal/MutablePropertyReference2 with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/MutablePropertyReference2 in 227.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/PropertyReference0.class to kotlin/jvm/internal/PropertyReference0.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/PropertyReference0 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/PropertyReference0 in 318.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/PropertyReference0 in 188.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/PropertyReference1.class to kotlin/jvm/internal/PropertyReference1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/PropertyReference1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/PropertyReference1 in 218.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/PropertyReference1 in 202.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/PropertyReference2.class to kotlin/jvm/internal/PropertyReference2.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/PropertyReference2 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/PropertyReference2 in 190.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/PropertyReference2 in 188.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/Result.class to kotlin/Result.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/Result with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/Result in 477.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/Result in 648.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/Result$Companion.class to kotlin/Result$Companion.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/Result$Companion with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/Result$Companion in 213.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/Result$Companion in 212.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/Result$Failure.class to kotlin/Result$Failure.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/Result$Failure with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/Result$Failure in 208.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/Result$Failure in 238.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/DefaultConstructorMarker.class to kotlin/jvm/internal/DefaultConstructorMarker.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/DefaultConstructorMarker with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/DefaultConstructorMarker in 424.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/DefaultConstructorMarker in 206.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/Regex.class to kotlin/text/Regex.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/Regex with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/Regex in 816.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/Regex in 720.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/Regex$Companion.class to kotlin/text/Regex$Companion.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/Regex$Companion with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/Regex$Companion in 185.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/Regex$Companion in 228.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/LazyThreadSafetyMode.class to kotlin/LazyThreadSafetyMode.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/LazyThreadSafetyMode with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/LazyThreadSafetyMode in 180.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/LazyThreadSafetyMode in 232.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/LazyKt.class to kotlin/LazyKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/LazyKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/LazyKt in 95.90 μs
+[Architectury Transformer DEBUG] Transformed kotlin/LazyKt in 145.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/LazyKt__LazyKt.class to kotlin/LazyKt__LazyKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/LazyKt__LazyKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/LazyKt__LazyKt in 280.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/LazyKt__LazyKt in 189.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/LazyKt__LazyJVMKt.class to kotlin/LazyKt__LazyJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/LazyKt__LazyJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/LazyKt__LazyJVMKt in 248.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/LazyKt__LazyJVMKt in 248.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/LazyKt__LazyJVMKt$WhenMappings.class to kotlin/LazyKt__LazyJVMKt$WhenMappings.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/LazyKt__LazyJVMKt$WhenMappings with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/LazyKt__LazyJVMKt$WhenMappings in 154.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/LazyKt__LazyJVMKt$WhenMappings in 239.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/SafePublicationLazyImpl.class to kotlin/SafePublicationLazyImpl.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/SafePublicationLazyImpl with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/SafePublicationLazyImpl in 212.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/SafePublicationLazyImpl in 250.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/Lazy.class to kotlin/Lazy.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/Lazy with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/Lazy in 136.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/Lazy in 113.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/SafePublicationLazyImpl$Companion.class to kotlin/SafePublicationLazyImpl$Companion.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/SafePublicationLazyImpl$Companion with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/SafePublicationLazyImpl$Companion in 116.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/SafePublicationLazyImpl$Companion in 102.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/UNINITIALIZED_VALUE.class to kotlin/UNINITIALIZED_VALUE.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/UNINITIALIZED_VALUE with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/UNINITIALIZED_VALUE in 166.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/UNINITIALIZED_VALUE in 316.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/Pair.class to kotlin/Pair.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/Pair with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/Pair in 509.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/Pair in 535.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/TuplesKt.class to kotlin/TuplesKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/TuplesKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/TuplesKt in 347.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/TuplesKt in 364.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/MapsKt.class to kotlin/collections/MapsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/MapsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/MapsKt in 104.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/MapsKt in 102.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/MapsKt___MapsKt.class to kotlin/collections/MapsKt___MapsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/MapsKt___MapsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/MapsKt___MapsKt in 1.299 ms
+[Architectury Transformer DEBUG] Transformed kotlin/collections/MapsKt___MapsKt in 1.471 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/MapsKt___MapsJvmKt.class to kotlin/collections/MapsKt___MapsJvmKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/MapsKt___MapsJvmKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/MapsKt___MapsJvmKt in 344.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/MapsKt___MapsJvmKt in 418.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/MapsKt__MapsKt.class to kotlin/collections/MapsKt__MapsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/MapsKt__MapsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/MapsKt__MapsKt in 1.676 ms
+[Architectury Transformer DEBUG] Transformed kotlin/collections/MapsKt__MapsKt in 1.697 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/MapsKt__MapsJVMKt.class to kotlin/collections/MapsKt__MapsJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/MapsKt__MapsJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/MapsKt__MapsJVMKt in 480.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/MapsKt__MapsJVMKt in 698.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/MapsKt__MapWithDefaultKt.class to kotlin/collections/MapsKt__MapWithDefaultKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/MapsKt__MapWithDefaultKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/MapsKt__MapWithDefaultKt in 367.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/MapsKt__MapWithDefaultKt in 316.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt.class to kotlin/collections/CollectionsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt in 218.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt in 241.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt___CollectionsKt.class to kotlin/collections/CollectionsKt___CollectionsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt___CollectionsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt___CollectionsKt in 5.340 ms
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt___CollectionsKt in 8.098 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt___CollectionsJvmKt.class to kotlin/collections/CollectionsKt___CollectionsJvmKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt___CollectionsJvmKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt___CollectionsJvmKt in 693.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt___CollectionsJvmKt in 650.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt__ReversedViewsKt.class to kotlin/collections/CollectionsKt__ReversedViewsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt__ReversedViewsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__ReversedViewsKt in 190.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__ReversedViewsKt in 227.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt__MutableCollectionsKt.class to kotlin/collections/CollectionsKt__MutableCollectionsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt__MutableCollectionsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__MutableCollectionsKt in 571.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__MutableCollectionsKt in 730.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt__MutableCollectionsJVMKt.class to kotlin/collections/CollectionsKt__MutableCollectionsJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt__MutableCollectionsJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__MutableCollectionsJVMKt in 280.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__MutableCollectionsJVMKt in 293.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt__IteratorsKt.class to kotlin/collections/CollectionsKt__IteratorsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt__IteratorsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__IteratorsKt in 343.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__IteratorsKt in 149.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt__IteratorsJVMKt.class to kotlin/collections/CollectionsKt__IteratorsJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt__IteratorsJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__IteratorsJVMKt in 176.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__IteratorsJVMKt in 115.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt__IterablesKt.class to kotlin/collections/CollectionsKt__IterablesKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt__IterablesKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__IterablesKt in 258.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__IterablesKt in 225.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt__CollectionsKt.class to kotlin/collections/CollectionsKt__CollectionsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt__CollectionsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__CollectionsKt in 921.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__CollectionsKt in 816.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt__CollectionsJVMKt.class to kotlin/collections/CollectionsKt__CollectionsJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt__CollectionsJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__CollectionsJVMKt in 317.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt__CollectionsJVMKt in 383.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/ArrayAsCollection.class to kotlin/collections/ArrayAsCollection.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/ArrayAsCollection with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/ArrayAsCollection in 431.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/ArrayAsCollection in 441.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/properties/Delegates.class to kotlin/properties/Delegates.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/properties/Delegates with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/properties/Delegates in 394.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/properties/Delegates in 550.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/properties/ObservableProperty.class to kotlin/properties/ObservableProperty.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/properties/ObservableProperty with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/properties/ObservableProperty in 268.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/properties/ObservableProperty in 381.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/properties/ReadWriteProperty.class to kotlin/properties/ReadWriteProperty.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/properties/ReadWriteProperty with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/properties/ReadWriteProperty in 160.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/properties/ReadWriteProperty in 140.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/properties/ReadOnlyProperty.class to kotlin/properties/ReadOnlyProperty.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/properties/ReadOnlyProperty with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/properties/ReadOnlyProperty in 103.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/properties/ReadOnlyProperty in 110.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/ranges/RangesKt.class to kotlin/ranges/RangesKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ranges/RangesKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/ranges/RangesKt in 153.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/ranges/RangesKt in 205.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/ranges/RangesKt___RangesKt.class to kotlin/ranges/RangesKt___RangesKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ranges/RangesKt___RangesKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/ranges/RangesKt___RangesKt in 1.883 ms
+[Architectury Transformer DEBUG] Transformed kotlin/ranges/RangesKt___RangesKt in 2.651 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/ranges/RangesKt__RangesKt.class to kotlin/ranges/RangesKt__RangesKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ranges/RangesKt__RangesKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/ranges/RangesKt__RangesKt in 259.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/ranges/RangesKt__RangesKt in 272.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/AbstractList$IteratorImpl.class to kotlin/collections/AbstractList$IteratorImpl.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/AbstractList$IteratorImpl with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/AbstractList$IteratorImpl in 150.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/AbstractList$IteratorImpl in 152.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/SetsKt.class to kotlin/collections/SetsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/SetsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/SetsKt in 128.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/SetsKt in 160.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/SetsKt___SetsKt.class to kotlin/collections/SetsKt___SetsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/SetsKt___SetsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/SetsKt___SetsKt in 334.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/SetsKt___SetsKt in 390.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/SetsKt__SetsKt.class to kotlin/collections/SetsKt__SetsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/SetsKt__SetsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/SetsKt__SetsKt in 260.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/SetsKt__SetsKt in 304.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/SetsKt__SetsJVMKt.class to kotlin/collections/SetsKt__SetsJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/SetsKt__SetsJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/SetsKt__SetsJVMKt in 187.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/SetsKt__SetsJVMKt in 194.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/EmptySet.class to kotlin/collections/EmptySet.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/EmptySet with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/EmptySet in 219.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/EmptySet in 418.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/ArraysKt.class to kotlin/collections/ArraysKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/ArraysKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/ArraysKt in 87.60 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/ArraysKt in 99.50 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/ArraysKt___ArraysKt.class to kotlin/collections/ArraysKt___ArraysKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/ArraysKt___ArraysKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/ArraysKt___ArraysKt in 33.24 ms
+[Architectury Transformer DEBUG] Transformed kotlin/collections/ArraysKt___ArraysKt in 37.91 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/ArraysKt___ArraysJvmKt.class to kotlin/collections/ArraysKt___ArraysJvmKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/ArraysKt___ArraysJvmKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/ArraysKt___ArraysJvmKt in 5.231 ms
+[Architectury Transformer DEBUG] Transformed kotlin/collections/ArraysKt___ArraysJvmKt in 4.445 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/ArraysKt__ArraysKt.class to kotlin/collections/ArraysKt__ArraysKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/ArraysKt__ArraysKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/ArraysKt__ArraysKt in 756.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/ArraysKt__ArraysKt in 621.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/ArraysKt__ArraysJVMKt.class to kotlin/collections/ArraysKt__ArraysJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/ArraysKt__ArraysJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/ArraysKt__ArraysJVMKt in 201.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/ArraysKt__ArraysJVMKt in 242.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/ArraysUtilJVM.class to kotlin/collections/ArraysUtilJVM.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/ArraysUtilJVM with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/ArraysUtilJVM in 121.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/ArraysUtilJVM in 190.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/PropertyReference1Impl.class to kotlin/jvm/internal/PropertyReference1Impl.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/PropertyReference1Impl with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/PropertyReference1Impl in 322.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/PropertyReference1Impl in 348.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/ranges/IntRange.class to kotlin/ranges/IntRange.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ranges/IntRange with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/ranges/IntRange in 547.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/ranges/IntRange in 1.186 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/ranges/ClosedRange.class to kotlin/ranges/ClosedRange.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ranges/ClosedRange with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/ranges/ClosedRange in 133.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/ranges/ClosedRange in 238.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/ranges/OpenEndRange.class to kotlin/ranges/OpenEndRange.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ranges/OpenEndRange with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/ranges/OpenEndRange in 110.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/ranges/OpenEndRange in 133.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/ranges/IntProgression.class to kotlin/ranges/IntProgression.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ranges/IntProgression with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/ranges/IntProgression in 307.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/ranges/IntProgression in 225.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/ranges/IntProgression$Companion.class to kotlin/ranges/IntProgression$Companion.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ranges/IntProgression$Companion with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/ranges/IntProgression$Companion in 105.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/ranges/IntProgression$Companion in 108.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/ranges/IntRange$Companion.class to kotlin/ranges/IntRange$Companion.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ranges/IntRange$Companion with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/ranges/IntRange$Companion in 241.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/ranges/IntRange$Companion in 118.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/internal/ProgressionUtilKt.class to kotlin/internal/ProgressionUtilKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/internal/ProgressionUtilKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/internal/ProgressionUtilKt in 155.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/internal/ProgressionUtilKt in 177.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/Triple.class to kotlin/Triple.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/Triple with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/Triple in 501.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/Triple in 745.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/FunctionReferenceImpl.class to kotlin/jvm/internal/FunctionReferenceImpl.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/FunctionReferenceImpl with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/FunctionReferenceImpl in 268.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/FunctionReferenceImpl in 284.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/EmptyList.class to kotlin/collections/EmptyList.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/EmptyList with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/EmptyList in 806.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/EmptyList in 489.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function3.class to kotlin/jvm/functions/Function3.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function3 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function3 in 208.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function3 in 179.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/NotImplementedError.class to kotlin/NotImplementedError.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/NotImplementedError with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/NotImplementedError in 265.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/NotImplementedError in 252.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/CollectionToArray.class to kotlin/jvm/internal/CollectionToArray.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/CollectionToArray with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/CollectionToArray in 620.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/CollectionToArray in 455.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/Metadata.class to kotlin/Metadata.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/Metadata with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/Metadata in 364.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/Metadata in 403.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/annotation/Retention.class to kotlin/annotation/Retention.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/annotation/Retention with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/annotation/Retention in 133.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/annotation/Retention in 123.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/annotation/Target.class to kotlin/annotation/Target.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/annotation/Target with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/annotation/Target in 98.80 μs
+[Architectury Transformer DEBUG] Transformed kotlin/annotation/Target in 108.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/RegexKt.class to kotlin/text/RegexKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/RegexKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/RegexKt in 540.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/RegexKt in 482.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/MatcherMatchResult.class to kotlin/text/MatcherMatchResult.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/MatcherMatchResult with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/MatcherMatchResult in 282.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/MatcherMatchResult in 285.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/MatchResult.class to kotlin/text/MatchResult.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/MatchResult with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/MatchResult in 114.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/MatchResult in 123.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/MatcherMatchResult$groups$1.class to kotlin/text/MatcherMatchResult$groups$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/MatcherMatchResult$groups$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/MatcherMatchResult$groups$1 in 238.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/MatcherMatchResult$groups$1 in 288.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/MatchNamedGroupCollection.class to kotlin/text/MatchNamedGroupCollection.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/MatchNamedGroupCollection with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/MatchNamedGroupCollection in 130.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/MatchNamedGroupCollection in 140.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/MatchGroupCollection.class to kotlin/text/MatchGroupCollection.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/MatchGroupCollection with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/MatchGroupCollection in 126.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/MatchGroupCollection in 101.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/MatchResult$DefaultImpls.class to kotlin/text/MatchResult$DefaultImpls.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/MatchResult$DefaultImpls with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/MatchResult$DefaultImpls in 115.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/MatchResult$DefaultImpls in 139.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/MatchResult$Destructured.class to kotlin/text/MatchResult$Destructured.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/MatchResult$Destructured with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/MatchResult$Destructured in 170.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/MatchResult$Destructured in 187.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/MatcherMatchResult$groupValues$1.class to kotlin/text/MatcherMatchResult$groupValues$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/MatcherMatchResult$groupValues$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/MatcherMatchResult$groupValues$1 in 152.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/MatcherMatchResult$groupValues$1 in 187.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/TypeCastException.class to kotlin/TypeCastException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/TypeCastException with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/TypeCastException in 196.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/TypeCastException in 116.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/_Assertions.class to kotlin/_Assertions.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/_Assertions with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/_Assertions in 303.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/_Assertions in 273.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/JvmClassMappingKt.class to kotlin/jvm/JvmClassMappingKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/JvmClassMappingKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/JvmClassMappingKt in 650.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/JvmClassMappingKt in 494.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function4.class to kotlin/jvm/functions/Function4.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function4 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function4 in 118.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function4 in 109.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function5.class to kotlin/jvm/functions/Function5.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function5 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function5 in 94.70 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function5 in 111.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function6.class to kotlin/jvm/functions/Function6.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function6 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function6 in 93.60 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function6 in 154.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function7.class to kotlin/jvm/functions/Function7.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function7 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function7 in 108.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function7 in 94.00 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function8.class to kotlin/jvm/functions/Function8.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function8 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function8 in 91.00 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function8 in 91.70 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function9.class to kotlin/jvm/functions/Function9.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function9 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function9 in 87.50 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function9 in 93.60 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function10.class to kotlin/jvm/functions/Function10.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function10 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function10 in 88.40 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function10 in 95.80 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function11.class to kotlin/jvm/functions/Function11.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function11 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function11 in 88.90 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function11 in 95.30 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function12.class to kotlin/jvm/functions/Function12.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function12 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function12 in 90.40 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function12 in 109.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function13.class to kotlin/jvm/functions/Function13.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function13 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function13 in 92.10 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function13 in 117.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function14.class to kotlin/jvm/functions/Function14.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function14 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function14 in 91.00 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function14 in 107.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function15.class to kotlin/jvm/functions/Function15.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function15 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function15 in 98.90 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function15 in 110.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function16.class to kotlin/jvm/functions/Function16.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function16 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function16 in 94.50 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function16 in 114.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function17.class to kotlin/jvm/functions/Function17.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function17 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function17 in 94.10 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function17 in 114.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function18.class to kotlin/jvm/functions/Function18.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function18 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function18 in 107.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function18 in 109.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function19.class to kotlin/jvm/functions/Function19.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function19 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function19 in 95.90 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function19 in 113.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function20.class to kotlin/jvm/functions/Function20.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function20 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function20 in 104.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function20 in 107.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function21.class to kotlin/jvm/functions/Function21.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function21 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function21 in 100.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function21 in 130.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/functions/Function22.class to kotlin/jvm/functions/Function22.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/functions/Function22 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function22 in 95.90 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/functions/Function22 in 113.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt.class to kotlin/text/StringsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt in 235.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt in 242.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt___StringsKt.class to kotlin/text/StringsKt___StringsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt___StringsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt___StringsKt in 3.730 ms
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt___StringsKt in 6.298 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt___StringsJvmKt.class to kotlin/text/StringsKt___StringsJvmKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt___StringsJvmKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt___StringsJvmKt in 357.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt___StringsJvmKt in 518.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__StringsKt.class to kotlin/text/StringsKt__StringsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__StringsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringsKt in 2.564 ms
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringsKt in 3.530 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__StringsJVMKt.class to kotlin/text/StringsKt__StringsJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__StringsJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringsJVMKt in 1.279 ms
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringsJVMKt in 1.733 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__StringNumberConversionsKt.class to kotlin/text/StringsKt__StringNumberConversionsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__StringNumberConversionsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringNumberConversionsKt in 329.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringNumberConversionsKt in 355.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__StringNumberConversionsJVMKt.class to kotlin/text/StringsKt__StringNumberConversionsJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__StringNumberConversionsJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringNumberConversionsJVMKt in 412.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringNumberConversionsJVMKt in 542.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__StringBuilderKt.class to kotlin/text/StringsKt__StringBuilderKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__StringBuilderKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringBuilderKt in 238.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringBuilderKt in 362.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__StringBuilderJVMKt.class to kotlin/text/StringsKt__StringBuilderJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__StringBuilderJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringBuilderJVMKt in 460.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringBuilderJVMKt in 797.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__RegexExtensionsKt.class to kotlin/text/StringsKt__RegexExtensionsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__RegexExtensionsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__RegexExtensionsKt in 120.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__RegexExtensionsKt in 345.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__RegexExtensionsJVMKt.class to kotlin/text/StringsKt__RegexExtensionsJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__RegexExtensionsJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__RegexExtensionsJVMKt in 94.60 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__RegexExtensionsJVMKt in 128.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__IndentKt.class to kotlin/text/StringsKt__IndentKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__IndentKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__IndentKt in 575.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__IndentKt in 884.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__AppendableKt.class to kotlin/text/StringsKt__AppendableKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__AppendableKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__AppendableKt in 218.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__AppendableKt in 288.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/EmptyMap.class to kotlin/collections/EmptyMap.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/EmptyMap with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/EmptyMap in 501.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/EmptyMap in 570.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/SynchronizedLazyImpl.class to kotlin/SynchronizedLazyImpl.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/SynchronizedLazyImpl with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/SynchronizedLazyImpl in 390.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/SynchronizedLazyImpl in 484.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/KotlinVersion.class to kotlin/KotlinVersion.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/KotlinVersion with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/KotlinVersion in 704.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/KotlinVersion in 551.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/KotlinVersion$Companion.class to kotlin/KotlinVersion$Companion.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/KotlinVersion$Companion with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/KotlinVersion$Companion in 124.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/KotlinVersion$Companion in 114.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/KotlinVersionCurrentValue.class to kotlin/KotlinVersionCurrentValue.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/KotlinVersionCurrentValue with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/KotlinVersionCurrentValue in 173.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/KotlinVersionCurrentValue in 141.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/EmptyIterator.class to kotlin/collections/EmptyIterator.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/EmptyIterator with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/EmptyIterator in 252.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/EmptyIterator in 224.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/InitializedLazyImpl.class to kotlin/InitializedLazyImpl.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/InitializedLazyImpl with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/InitializedLazyImpl in 436.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/InitializedLazyImpl in 315.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/StringCompanionObject.class to kotlin/jvm/internal/StringCompanionObject.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/StringCompanionObject with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/StringCompanionObject in 281.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/StringCompanionObject in 382.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/UnsafeLazyImpl.class to kotlin/UnsafeLazyImpl.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/UnsafeLazyImpl with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/UnsafeLazyImpl in 413.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/UnsafeLazyImpl in 448.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/ArrayIteratorKt.class to kotlin/jvm/internal/ArrayIteratorKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/ArrayIteratorKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/ArrayIteratorKt in 268.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/ArrayIteratorKt in 309.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/ArrayIterator.class to kotlin/jvm/internal/ArrayIterator.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/ArrayIterator with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/ArrayIterator in 239.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/ArrayIterator in 276.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/IndexingIterable.class to kotlin/collections/IndexingIterable.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/IndexingIterable with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/IndexingIterable in 215.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/IndexingIterable in 379.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt___CollectionsKt$withIndex$1.class to kotlin/collections/CollectionsKt___CollectionsKt$withIndex$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt___CollectionsKt$withIndex$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt___CollectionsKt$withIndex$1 in 146.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt___CollectionsKt$withIndex$1 in 165.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/Lambda.class to kotlin/jvm/internal/Lambda.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/Lambda with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Lambda in 138.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Lambda in 116.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/IndexingIterator.class to kotlin/collections/IndexingIterator.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/IndexingIterator with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/IndexingIterator in 191.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/IndexingIterator in 157.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/IndexedValue.class to kotlin/collections/IndexedValue.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/IndexedValue with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/IndexedValue in 191.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/IndexedValue in 220.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/ranges/IntProgressionIterator.class to kotlin/ranges/IntProgressionIterator.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ranges/IntProgressionIterator with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/ranges/IntProgressionIterator in 271.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/ranges/IntProgressionIterator in 316.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/IntIterator.class to kotlin/collections/IntIterator.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/IntIterator with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/IntIterator in 126.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/IntIterator in 157.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/io/CloseableKt.class to kotlin/io/CloseableKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/io/CloseableKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/io/CloseableKt in 354.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/io/CloseableKt in 481.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/SequencesKt.class to kotlin/sequences/SequencesKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/SequencesKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt in 259.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt in 213.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/SequencesKt___SequencesKt.class to kotlin/sequences/SequencesKt___SequencesKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/SequencesKt___SequencesKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt___SequencesKt in 44.26 ms
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt___SequencesKt in 4.682 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/SequencesKt___SequencesJvmKt.class to kotlin/sequences/SequencesKt___SequencesJvmKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/SequencesKt___SequencesJvmKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt___SequencesJvmKt in 580.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt___SequencesJvmKt in 505.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/SequencesKt__SequencesKt.class to kotlin/sequences/SequencesKt__SequencesKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/SequencesKt__SequencesKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt__SequencesKt in 403.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt__SequencesKt in 415.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/SequencesKt__SequencesJVMKt.class to kotlin/sequences/SequencesKt__SequencesJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/SequencesKt__SequencesJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt__SequencesJVMKt in 188.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt__SequencesJVMKt in 113.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/SequencesKt__SequenceBuilderKt.class to kotlin/sequences/SequencesKt__SequenceBuilderKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/SequencesKt__SequenceBuilderKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt__SequenceBuilderKt in 156.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt__SequenceBuilderKt in 158.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/GeneratorSequence.class to kotlin/sequences/GeneratorSequence.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/GeneratorSequence with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/GeneratorSequence in 137.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/GeneratorSequence in 164.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/Sequence.class to kotlin/sequences/Sequence.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/Sequence with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/Sequence in 90.80 μs
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/Sequence in 84.50 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/SequencesKt__SequencesKt$generateSequence$1.class to kotlin/sequences/SequencesKt__SequencesKt$generateSequence$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/SequencesKt__SequencesKt$generateSequence$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt__SequencesKt$generateSequence$1 in 143.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/SequencesKt__SequencesKt$generateSequence$1 in 147.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/ConstrainedOnceSequence.class to kotlin/sequences/ConstrainedOnceSequence.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/ConstrainedOnceSequence with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/ConstrainedOnceSequence in 153.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/ConstrainedOnceSequence in 162.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/GeneratorSequence$iterator$1.class to kotlin/sequences/GeneratorSequence$iterator$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/GeneratorSequence$iterator$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/GeneratorSequence$iterator$1 in 169.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/GeneratorSequence$iterator$1 in 205.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/AbstractMutableSet.class to kotlin/collections/AbstractMutableSet.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/AbstractMutableSet with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/AbstractMutableSet in 213.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/AbstractMutableSet in 247.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/markers/KMutableSet.class to kotlin/jvm/internal/markers/KMutableSet.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/markers/KMutableSet with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/markers/KMutableSet in 86.70 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/markers/KMutableSet in 97.50 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/markers/KMutableCollection.class to kotlin/jvm/internal/markers/KMutableCollection.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/markers/KMutableCollection with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/markers/KMutableCollection in 74.60 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/markers/KMutableCollection in 96.80 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/markers/KMutableIterable.class to kotlin/jvm/internal/markers/KMutableIterable.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/markers/KMutableIterable with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/markers/KMutableIterable in 99.00 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/markers/KMutableIterable in 111.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/builders/MapBuilder.class to kotlin/collections/builders/MapBuilder.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/builders/MapBuilder with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/builders/MapBuilder in 967.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/builders/MapBuilder in 1.246 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/markers/KMutableMap.class to kotlin/jvm/internal/markers/KMutableMap.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/markers/KMutableMap with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/markers/KMutableMap in 90.60 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/markers/KMutableMap in 93.30 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/builders/MapBuilder$Companion.class to kotlin/collections/builders/MapBuilder$Companion.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/builders/MapBuilder$Companion with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/builders/MapBuilder$Companion in 154.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/builders/MapBuilder$Companion in 152.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/builders/ListBuilderKt.class to kotlin/collections/builders/ListBuilderKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/builders/ListBuilderKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/builders/ListBuilderKt in 319.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/builders/ListBuilderKt in 282.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KProperty1$Getter.class to kotlin/reflect/KProperty1$Getter.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KProperty1$Getter with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty1$Getter in 218.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KProperty1$Getter in 203.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/SpreadBuilder.class to kotlin/jvm/internal/SpreadBuilder.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/SpreadBuilder with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/SpreadBuilder in 227.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/SpreadBuilder in 325.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/reflect/KMutableProperty1$Setter.class to kotlin/reflect/KMutableProperty1$Setter.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/reflect/KMutableProperty1$Setter with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/reflect/KMutableProperty1$Setter in 165.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/reflect/KMutableProperty1$Setter in 162.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/PropertyReference0Impl.class to kotlin/jvm/internal/PropertyReference0Impl.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/PropertyReference0Impl with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/PropertyReference0Impl in 316.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/PropertyReference0Impl in 317.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/markers/KMutableIterator.class to kotlin/jvm/internal/markers/KMutableIterator.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/markers/KMutableIterator with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/markers/KMutableIterator in 237.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/markers/KMutableIterator in 188.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/io/FilesKt.class to kotlin/io/FilesKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/io/FilesKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/io/FilesKt in 760.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/io/FilesKt in 224.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/io/FilesKt__UtilsKt.class to kotlin/io/FilesKt__UtilsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/io/FilesKt__UtilsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/io/FilesKt__UtilsKt in 1.600 ms
+[Architectury Transformer DEBUG] Transformed kotlin/io/FilesKt__UtilsKt in 837.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/io/FilesKt__FileTreeWalkKt.class to kotlin/io/FilesKt__FileTreeWalkKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/io/FilesKt__FileTreeWalkKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/io/FilesKt__FileTreeWalkKt in 276.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/io/FilesKt__FileTreeWalkKt in 140.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/io/FilesKt__FileReadWriteKt.class to kotlin/io/FilesKt__FileReadWriteKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/io/FilesKt__FileReadWriteKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/io/FilesKt__FileReadWriteKt in 914.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/io/FilesKt__FileReadWriteKt in 739.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/io/FilesKt__FilePathComponentsKt.class to kotlin/io/FilesKt__FilePathComponentsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/io/FilesKt__FilePathComponentsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/io/FilesKt__FilePathComponentsKt in 276.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/io/FilesKt__FilePathComponentsKt in 233.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/Charsets.class to kotlin/text/Charsets.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/Charsets with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/Charsets in 352.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/Charsets in 182.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/io/TextStreamsKt.class to kotlin/io/TextStreamsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/io/TextStreamsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/io/TextStreamsKt in 635.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/io/TextStreamsKt in 393.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/AdaptedFunctionReference.class to kotlin/jvm/internal/AdaptedFunctionReference.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/AdaptedFunctionReference with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/AdaptedFunctionReference in 758.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/AdaptedFunctionReference in 830.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/Ref$ObjectRef.class to kotlin/jvm/internal/Ref$ObjectRef.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/Ref$ObjectRef with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Ref$ObjectRef in 318.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Ref$ObjectRef in 530.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/CharsKt.class to kotlin/text/CharsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/CharsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/CharsKt in 227.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/CharsKt in 329.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/CharsKt__CharKt.class to kotlin/text/CharsKt__CharKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/CharsKt__CharKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/CharsKt__CharKt in 343.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/CharsKt__CharKt in 715.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/CharsKt__CharJVMKt.class to kotlin/text/CharsKt__CharJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/CharsKt__CharJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/CharsKt__CharJVMKt in 349.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/CharsKt__CharJVMKt in 719.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/comparisons/ComparisonsKt.class to kotlin/comparisons/ComparisonsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/comparisons/ComparisonsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/comparisons/ComparisonsKt in 207.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/comparisons/ComparisonsKt in 298.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/comparisons/ComparisonsKt___ComparisonsKt.class to kotlin/comparisons/ComparisonsKt___ComparisonsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/comparisons/ComparisonsKt___ComparisonsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/comparisons/ComparisonsKt___ComparisonsKt in 261.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/comparisons/ComparisonsKt___ComparisonsKt in 294.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/comparisons/ComparisonsKt___ComparisonsJvmKt.class to kotlin/comparisons/ComparisonsKt___ComparisonsJvmKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/comparisons/ComparisonsKt___ComparisonsJvmKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/comparisons/ComparisonsKt___ComparisonsJvmKt in 378.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/comparisons/ComparisonsKt___ComparisonsJvmKt in 442.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/comparisons/ComparisonsKt__ComparisonsKt.class to kotlin/comparisons/ComparisonsKt__ComparisonsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/comparisons/ComparisonsKt__ComparisonsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/comparisons/ComparisonsKt__ComparisonsKt in 755.7 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/io/NoSuchFileException.class to kotlin/io/NoSuchFileException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/io/NoSuchFileException with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/io/NoSuchFileException in 907.6 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/io/FileSystemException.class to kotlin/io/FileSystemException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/io/FileSystemException with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/io/FileSystemException in 339.8 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/io/FileAlreadyExistsException.class to kotlin/io/FileAlreadyExistsException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/io/FileAlreadyExistsException with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/io/FileAlreadyExistsException in 211.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/comparisons/ComparisonsKt__ComparisonsKt in 826.8 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/io/TerminateException.class to kotlin/io/TerminateException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/io/TerminateException with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/io/TerminateException in 137.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/io/TerminateException in 977.6 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/io/FileSystemException.class to kotlin/io/FileSystemException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing kotlin/io/FileSystemException with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/io/FileSystemException in 480.6 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/io/NoSuchFileException.class to kotlin/io/NoSuchFileException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing kotlin/io/NoSuchFileException with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/io/NoSuchFileException in 164.7 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/io/FileAlreadyExistsException.class to kotlin/io/FileAlreadyExistsException.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing kotlin/io/FileAlreadyExistsException with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/io/FileAlreadyExistsException in 161.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/optionals/OptionalsKt.class to kotlin/jvm/optionals/OptionalsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/optionals/OptionalsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/optionals/OptionalsKt in 841.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/optionals/OptionalsKt in 434.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/random/Random.class to kotlin/random/Random.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/random/Random with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/random/Random in 668.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/random/Random in 1.189 ms
 [Architectury Transformer DEBUG] Transforming from kotlin/random/Random$Default.class to kotlin/random/Random$Default.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/random/Random$Default with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/random/Random$Default in 186.4 μs
+[Architectury Transformer DEBUG] Transformed kotlin/random/Random$Default in 193.6 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/internal/PlatformImplementationsKt.class to kotlin/internal/PlatformImplementationsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/internal/PlatformImplementationsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/internal/PlatformImplementationsKt in 182.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/internal/PlatformImplementationsKt in 203.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/internal/jdk8/JDK8PlatformImplementations.class to kotlin/internal/jdk8/JDK8PlatformImplementations.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/internal/jdk8/JDK8PlatformImplementations with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/internal/jdk8/JDK8PlatformImplementations in 211.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/internal/jdk8/JDK8PlatformImplementations in 177.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/internal/jdk7/JDK7PlatformImplementations.class to kotlin/internal/jdk7/JDK7PlatformImplementations.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/internal/jdk7/JDK7PlatformImplementations with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/internal/jdk7/JDK7PlatformImplementations in 174.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/internal/jdk7/JDK7PlatformImplementations in 157.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/internal/PlatformImplementations.class to kotlin/internal/PlatformImplementations.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/internal/PlatformImplementations with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/internal/PlatformImplementations in 340.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/internal/PlatformImplementations in 378.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/internal/jdk8/JDK8PlatformImplementations$ReflectSdkVersion.class to kotlin/internal/jdk8/JDK8PlatformImplementations$ReflectSdkVersion.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/internal/jdk8/JDK8PlatformImplementations$ReflectSdkVersion with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/internal/jdk8/JDK8PlatformImplementations$ReflectSdkVersion in 175.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/internal/jdk8/JDK8PlatformImplementations$ReflectSdkVersion in 348.4 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/random/jdk8/PlatformThreadLocalRandom.class to kotlin/random/jdk8/PlatformThreadLocalRandom.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/random/jdk8/PlatformThreadLocalRandom with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/random/jdk8/PlatformThreadLocalRandom in 249.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/random/jdk8/PlatformThreadLocalRandom in 245.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/random/AbstractPlatformRandom.class to kotlin/random/AbstractPlatformRandom.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/random/AbstractPlatformRandom with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/random/AbstractPlatformRandom in 128.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/random/AbstractPlatformRandom in 213.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/math/MathKt.class to kotlin/math/MathKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/math/MathKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/math/MathKt in 168.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/math/MathKt in 205.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/math/MathKt__MathJVMKt.class to kotlin/math/MathKt__MathJVMKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/math/MathKt__MathJVMKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/math/MathKt__MathJVMKt in 583.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/math/MathKt__MathJVMKt in 739.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/math/MathKt__MathHKt.class to kotlin/math/MathKt__MathHKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/math/MathKt__MathHKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/math/MathKt__MathHKt in 160.3 μs
+[Architectury Transformer DEBUG] Transformed kotlin/math/MathKt__MathHKt in 126.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/ScreenFloatValueRegEx.class to kotlin/text/ScreenFloatValueRegEx.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/ScreenFloatValueRegEx with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/ScreenFloatValueRegEx in 341.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/ScreenFloatValueRegEx in 534.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/DelimitedRangesSequence.class to kotlin/text/DelimitedRangesSequence.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/DelimitedRangesSequence with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/DelimitedRangesSequence in 350.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/DelimitedRangesSequence in 396.9 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__StringsKt$rangesDelimitedBy$2.class to kotlin/text/StringsKt__StringsKt$rangesDelimitedBy$2.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__StringsKt$rangesDelimitedBy$2 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringsKt$rangesDelimitedBy$2 in 157.2 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringsKt$rangesDelimitedBy$2 in 197.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__StringsKt$splitToSequence$1.class to kotlin/text/StringsKt__StringsKt$splitToSequence$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__StringsKt$splitToSequence$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringsKt$splitToSequence$1 in 108.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__StringsKt$splitToSequence$1 in 111.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/TransformingSequence.class to kotlin/sequences/TransformingSequence.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/TransformingSequence with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/TransformingSequence in 165.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/TransformingSequence in 132.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/sequences/TransformingSequence$iterator$1.class to kotlin/sequences/TransformingSequence$iterator$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/sequences/TransformingSequence$iterator$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/sequences/TransformingSequence$iterator$1 in 183.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/sequences/TransformingSequence$iterator$1 in 155.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/DelimitedRangesSequence$iterator$1.class to kotlin/text/DelimitedRangesSequence$iterator$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/DelimitedRangesSequence$iterator$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/DelimitedRangesSequence$iterator$1 in 209.9 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/DelimitedRangesSequence$iterator$1 in 209.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/text/StringsKt__IndentKt$getIndentFunction$1.class to kotlin/text/StringsKt__IndentKt$getIndentFunction$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/text/StringsKt__IndentKt$getIndentFunction$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__IndentKt$getIndentFunction$1 in 179.8 μs
+[Architectury Transformer DEBUG] Transformed kotlin/text/StringsKt__IndentKt$getIndentFunction$1 in 144.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/TypeIntrinsics.class to kotlin/jvm/internal/TypeIntrinsics.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/TypeIntrinsics with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/TypeIntrinsics in 490.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/TypeIntrinsics in 645.7 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/ranges/ClosedFloatingPointRange.class to kotlin/ranges/ClosedFloatingPointRange.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ranges/ClosedFloatingPointRange with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/ranges/ClosedFloatingPointRange in 755.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/ranges/ClosedFloatingPointRange in 936.3 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/random/RandomKt.class to kotlin/random/RandomKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/random/RandomKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/random/RandomKt in 515.7 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/Ref$BooleanRef.class to kotlin/jvm/internal/Ref$BooleanRef.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/jvm/internal/Ref$BooleanRef with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Ref$BooleanRef in 319.0 μs
+[Architectury Transformer DEBUG] Transformed kotlin/random/RandomKt in 641.2 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/ranges/ClosedFloatRange.class to kotlin/ranges/ClosedFloatRange.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/ranges/ClosedFloatRange with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/ranges/ClosedFloatRange in 331.6 μs
+[Architectury Transformer DEBUG] Transformed kotlin/ranges/ClosedFloatRange in 501.7 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/Ref$BooleanRef.class to kotlin/jvm/internal/Ref$BooleanRef.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing kotlin/jvm/internal/Ref$BooleanRef with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Ref$BooleanRef in 925.0 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/collections/CollectionsKt___CollectionsKt$elementAt$1.class to kotlin/collections/CollectionsKt___CollectionsKt$elementAt$1.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/collections/CollectionsKt___CollectionsKt$elementAt$1 with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt___CollectionsKt$elementAt$1 in 772.0 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/coroutines/Continuation.class to kotlin/coroutines/Continuation.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/coroutines/Continuation with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/coroutines/Continuation in 225.5 μs
+[Architectury Transformer DEBUG] Transformed kotlin/collections/CollectionsKt___CollectionsKt$elementAt$1 in 561.1 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/Ref$FloatRef.class to kotlin/jvm/internal/Ref$FloatRef.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/Ref$FloatRef with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Ref$FloatRef in 128.2 μs
-[Architectury Transformer DEBUG] Transforming from kotlin/io/ByteStreamsKt.class to kotlin/io/ByteStreamsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
-[Architectury Transformer DEBUG] Found class transformer
-[Architectury Transformer DEBUG] Writing kotlin/io/ByteStreamsKt with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/io/ByteStreamsKt in 994.1 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Ref$FloatRef in 599.5 μs
 [Architectury Transformer DEBUG] Transforming from kotlin/jvm/internal/Ref$IntRef.class to kotlin/jvm/internal/Ref$IntRef.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
 [Architectury Transformer DEBUG] Found class transformer
 [Architectury Transformer DEBUG] Writing kotlin/jvm/internal/Ref$IntRef with maxs=true frames=true
-[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Ref$IntRef in 537.7 μs
+[Architectury Transformer DEBUG] Transformed kotlin/jvm/internal/Ref$IntRef in 258.3 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/coroutines/Continuation.class to kotlin/coroutines/Continuation.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing kotlin/coroutines/Continuation with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/coroutines/Continuation in 538.0 μs
+[Architectury Transformer DEBUG] Transforming from kotlin/io/ByteStreamsKt.class to kotlin/io/ByteStreamsKt.class with 5 transformer(s) on dev.architectury.transformer.handler.TinyRemapperPreparedTransformerHandler
+[Architectury Transformer DEBUG] Found class transformer
+[Architectury Transformer DEBUG] Writing kotlin/io/ByteStreamsKt with maxs=true frames=true
+[Architectury Transformer DEBUG] Transformed kotlin/io/ByteStreamsKt in 725.0 μs

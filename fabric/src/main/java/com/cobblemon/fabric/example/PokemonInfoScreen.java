@@ -1,6 +1,7 @@
 package com.cobblemon.fabric.example;
 
 import net.minecraft.client.gui.screens.Screen;
+import net.minecraft.nbt.*;
 import net.minecraft.network.chat.Component;
 import net.minecraft.client.gui.GuiGraphics;
 import com.cobblemon.mod.common.pokemon.Pokemon;
@@ -9,16 +10,20 @@ import net.minecraft.client.renderer.texture.TextureManager;
 import net.minecraft.resources.ResourceLocation;
 import com.mojang.blaze3d.systems.RenderSystem;
 import org.lwjgl.opengl.GL11;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.awt.Dimension;
+import java.util.List;
 
 public class PokemonInfoScreen extends Screen {
     private final Pokemon pokemon;
     private ResourceLocation pokemonSprite;
     private ResourceLocation originMark;
+    public static final Logger LOGGER = LoggerFactory.getLogger("CobbleExtraData");
 
     protected PokemonInfoScreen(Pokemon pokemon) {
         super(Component.literal("Pokémon Info"));
@@ -54,39 +59,38 @@ public class PokemonInfoScreen extends Screen {
         super.render(guiGraphics, mouseX, mouseY, partialTicks);
 
         // Define the position and size of the background panel
-        int panelWidth = 220; // Slightly wider for better spacing
-        int panelHeight = 120; // Adjusted height for better fit
-        int x = (this.width - panelWidth) / 2; // Center horizontally
-        int y = (this.height - panelHeight) / 2; // Center vertically
+        int panelWidth = 220;
+        int panelHeight = 120;
+        int x = (this.width - panelWidth) / 2;
+        int y = (this.height - panelHeight) / 2;
 
         // Size of the Pokémon sprite
         int spriteWidth = 68;
         int spriteHeight = 56;
 
         // Compute the coordinates to center the sprite horizontally and position it properly
-        int spriteX = (this.width - spriteWidth) / 2; // Center horizontally
-        int spriteY = y - spriteHeight;           // Position above the panel
+        int spriteX = (this.width - spriteWidth) / 2;
+        int spriteY = y - spriteHeight;
 
-        // Set the sprite texture and draw it
-        RenderSystem.setShaderTexture(0, pokemonSprite);
-        guiGraphics.blit(pokemonSprite, spriteX, spriteY, 0, 0, spriteWidth, spriteHeight, spriteWidth, spriteHeight);
+        // Draw the Pokémon sprite
+        drawTexture(guiGraphics, pokemonSprite, spriteX, spriteY, spriteWidth, spriteHeight);
 
         // Draw a semi-transparent background panel with a shadow
-        guiGraphics.fill(x, y, x + panelWidth, y + panelHeight, 0x80000000); // Semi-transparent black
-        guiGraphics.fill(x + 2, y + 2, x + panelWidth + 2, y + panelHeight + 2, 0x20000000); // Shadow effect
+        guiGraphics.fill(x, y, x + panelWidth, y + panelHeight, 0x80000000);
+        guiGraphics.fill(x + 2, y + 2, x + panelWidth + 2, y + panelHeight + 2, 0x20000000);
 
         // Draw a border around the panel
-        guiGraphics.fill(x - 1, y - 1, x + panelWidth + 1, y, 0xFFAAAAAA); // Top border (light gray)
-        guiGraphics.fill(x - 1, y + panelHeight, x + panelWidth + 1, y + panelHeight + 1, 0xFFAAAAAA); // Bottom border
-        guiGraphics.fill(x - 1, y, x, y + panelHeight, 0xFFAAAAAA); // Left border
-        guiGraphics.fill(x + panelWidth, y, x + panelWidth + 1, y + panelHeight, 0xFFAAAAAA); // Right border
+        guiGraphics.fill(x - 1, y - 1, x + panelWidth + 1, y, 0xFFAAAAAA);
+        guiGraphics.fill(x - 1, y + panelHeight, x + panelWidth + 1, y + panelHeight + 1, 0xFFAAAAAA);
+        guiGraphics.fill(x - 1, y, x, y + panelHeight, 0xFFAAAAAA);
+        guiGraphics.fill(x + panelWidth, y, x + panelWidth + 1, y + panelHeight, 0xFFAAAAAA);
 
         // Draw the Pokémon data on the screen
-        int textX = x + 10; // Padding from the left
-        int textY = y + 10; // Padding from the top
+        int textX = x + 10;
+        int textY = y + 10;
 
         // Title: Pokémon Info (with shadow)
-        guiGraphics.drawString(this.font, "Pokémon Info", textX, textY, 0xFFFFFF, true); // Text with shadow
+        guiGraphics.drawString(this.font, "Pokémon Info", textX, textY, 0xFFFFFF, true);
 
         // Origin Game (with shadow)
         String originGame = pokemon.getPersistentData().getString("OriginGame").toLowerCase();
@@ -102,11 +106,8 @@ public class PokemonInfoScreen extends Screen {
         if (!metLocation.contains(":")) {
             metLocation = "Cobblemon Transporter";
         } else {
-            // Remove the ":" prefix
             metLocation = metLocation.substring(metLocation.indexOf(":") + 1);
-            // Replace underscores with spaces
             metLocation = metLocation.replace("_", " ");
-            // Capitalize the first letter of each word
             metLocation = capitalizeEachWord(metLocation);
         }
         guiGraphics.drawString(this.font, metLocation, textX, textY + 60, 0xFFFFFF, true);
@@ -115,23 +116,103 @@ public class PokemonInfoScreen extends Screen {
         guiGraphics.drawString(this.font, "Met at Lv. " + pokemon.getPersistentData().getInt("MetLevel") + ".", textX, textY + 80, 0xFFFFFF, true);
 
         // Draw the origin mark at the bottom right of the panel
-        int originMarkSize = 16; // Origin mark is 64x64
-        int originMarkX = x + panelWidth - originMarkSize - 5; // 5 pixels from the right edge
-        int originMarkY = y + panelHeight - originMarkSize - 5; // 5 pixels from the bottom edge
+        int originMarkSize = 16;
+        int originMarkX = x + panelWidth - originMarkSize - 5;
+        int originMarkY = y + panelHeight - originMarkSize - 5;
 
-        // Enable nearest-neighbor filtering for the origin mark
-        RenderSystem.setShaderTexture(0, originMark);
-        RenderSystem.enableBlend();
-        RenderSystem.defaultBlendFunc();
-        RenderSystem.setShaderColor(1.0F, 1.0F, 1.0F, 1.0F);
-        RenderSystem.texParameter(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MIN_FILTER, GL11.GL_NEAREST);
-        RenderSystem.texParameter(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MAG_FILTER, GL11.GL_NEAREST);
+        drawTexture(guiGraphics, originMark, originMarkX, originMarkY, originMarkSize, originMarkSize);
 
-        guiGraphics.blit(originMark, originMarkX, originMarkY, 0, 0, originMarkSize, originMarkSize, originMarkSize, originMarkSize);
+        // Fetch the list of marks from persistent data
+        CompoundTag data = pokemon.getPersistentData();
+        if (data.contains("Ribbons", 11)) {
+            IntArrayTag ribbons = (IntArrayTag) data.get("Ribbons");
+            assert ribbons != null;
+            int[] ribbonIds = ribbons.getAsIntArray();
 
-        // Reset texture filtering to default (optional)
-        RenderSystem.texParameter(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MIN_FILTER, GL11.GL_LINEAR);
-        RenderSystem.texParameter(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MAG_FILTER, GL11.GL_LINEAR);
+            // Ribbon settings
+            int markSize = 16; // Size of each ribbon icon
+            int markSpacing = 5; // Spacing between ribbon icons
+            int maxRibbonsPerRow = 6; // Maximum number of ribbons per row
+            int ribbonPanelPadding = 10; // Padding around the ribbon panel
+            int ribbonPanelMargin = 20; // Additional margin between the main box and ribbon box
+
+            // Calculate the number of rows needed
+            int numRows = (int) Math.ceil((double) ribbonIds.length / maxRibbonsPerRow);
+
+            // Calculate the total width and height of the ribbon panel
+            int ribbonPanelWidth = Math.min(ribbonIds.length, maxRibbonsPerRow) * (markSize + markSpacing) - markSpacing;
+            int ribbonPanelHeight = numRows * (markSize + markSpacing) - markSpacing;
+
+            // Position the ribbon panel below the main box with additional margin
+            int ribbonPanelX = x + (panelWidth - ribbonPanelWidth) / 2; // Center horizontally
+            int ribbonPanelY = y + panelHeight + ribbonPanelMargin; // Position below the main box with margin
+
+            // Draw a semi-transparent background for the ribbon panel
+            guiGraphics.fill(
+                    ribbonPanelX - ribbonPanelPadding,
+                    ribbonPanelY - ribbonPanelPadding,
+                    ribbonPanelX + ribbonPanelWidth + ribbonPanelPadding,
+                    ribbonPanelY + ribbonPanelHeight + ribbonPanelPadding,
+                    0x80000000
+            );
+
+            // Draw a border around the ribbon panel
+            guiGraphics.fill(
+                    ribbonPanelX - ribbonPanelPadding - 1,
+                    ribbonPanelY - ribbonPanelPadding - 1,
+                    ribbonPanelX + ribbonPanelWidth + ribbonPanelPadding + 1,
+                    ribbonPanelY - ribbonPanelPadding,
+                    0xFFAAAAAA
+            );
+            guiGraphics.fill(
+                    ribbonPanelX - ribbonPanelPadding - 1,
+                    ribbonPanelY + ribbonPanelHeight + ribbonPanelPadding,
+                    ribbonPanelX + ribbonPanelWidth + ribbonPanelPadding + 1,
+                    ribbonPanelY + ribbonPanelHeight + ribbonPanelPadding + 1,
+                    0xFFAAAAAA
+            );
+            guiGraphics.fill(
+                    ribbonPanelX - ribbonPanelPadding - 1,
+                    ribbonPanelY - ribbonPanelPadding,
+                    ribbonPanelX - ribbonPanelPadding,
+                    ribbonPanelY + ribbonPanelHeight + ribbonPanelPadding,
+                    0xFFAAAAAA
+            );
+            guiGraphics.fill(
+                    ribbonPanelX + ribbonPanelWidth + ribbonPanelPadding,
+                    ribbonPanelY - ribbonPanelPadding,
+                    ribbonPanelX + ribbonPanelWidth + ribbonPanelPadding + 1,
+                    ribbonPanelY + ribbonPanelHeight + ribbonPanelPadding,
+                    0xFFAAAAAA
+            );
+
+            // Draw the ribbons
+            int currentRow = 0;
+            int currentCol = 0;
+            for (int markId : ribbonIds) {
+                ResourceLocation markTexture = MarkMapper.getMarkTexture(markId);
+
+                if (markTexture != null) {
+                    int ribbonX = ribbonPanelX + currentCol * (markSize + markSpacing);
+                    int ribbonY = ribbonPanelY + currentRow * (markSize + markSpacing);
+
+                    drawTexture(guiGraphics, markTexture, ribbonX, ribbonY, markSize, markSize);
+
+                    // Add tooltip for the ribbon
+                    if (mouseX >= ribbonX && mouseX < ribbonX + markSize && mouseY >= ribbonY && mouseY < ribbonY + markSize) {
+                        String ribbonName = MarkMapper.getMarkName(markId);
+                        guiGraphics.renderTooltip(this.font, Component.literal(ribbonName), mouseX, mouseY);
+                    }
+
+                    // Move to the next column
+                    currentCol++;
+                    if (currentCol >= maxRibbonsPerRow) {
+                        currentCol = 0;
+                        currentRow++;
+                    }
+                }
+            }
+        }
     }
 
     // Helper method to capitalize each word
@@ -144,6 +225,16 @@ public class PokemonInfoScreen extends Screen {
                     .append(" ");
         }
         return capitalized.toString().trim();
+    }
+
+    private void drawTexture(GuiGraphics guiGraphics, ResourceLocation texture, int x, int y, int width, int height) {
+        RenderSystem.setShaderTexture(0, texture);
+        RenderSystem.enableBlend();
+        RenderSystem.defaultBlendFunc();
+        RenderSystem.setShaderColor(1.0F, 1.0F, 1.0F, 1.0F);
+        RenderSystem.texParameter(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MIN_FILTER, GL11.GL_NEAREST);
+        RenderSystem.texParameter(GL11.GL_TEXTURE_2D, GL11.GL_TEXTURE_MAG_FILTER, GL11.GL_NEAREST);
+        guiGraphics.blit(texture, x, y, 0, 0, width, height, width, height);
     }
 
     @Override

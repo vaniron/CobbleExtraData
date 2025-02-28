@@ -1,0 +1,163 @@
+{
+  "uuid": "6794fdae-fe26-33f1-8f19-7eb3eb1ac435",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "4ef55594-1b65-439f-9298-4a1e7199030f",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 44,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 0,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 0,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "ice": 7,
+      "ground": 7,
+      "normal": 13,
+      "bug": 3,
+      "flying": 5,
+      "poison": 1,
+      "ghost": 2,
+      "psychic": 4,
+      "fire": 3,
+      "water": 6,
+      "dragon": 3,
+      "fighting": 1,
+      "dark": 3,
+      "grass": 4,
+      "electric": 2,
+      "fairy": 2,
+      "rock": 2,
+      "steel": 1
+    },
+    "totalDefeatedCounts": {},
+    "aspectsCollected": {
+      "cobblemon:swinub": [
+        "male"
+      ],
+      "cobblemon:sentret": [
+        "male",
+        "female"
+      ],
+      "cobblemon:ledian": [
+        "female"
+      ],
+      "cobblemon:weedle": [
+        "male"
+      ],
+      "cobblemon:lechonk": [
+        "male"
+      ],
+      "cobblemon:gimmighoul": [
+        "genderless",
+        "roaming"
+      ],
+      "cobblemon:hoothoot": [
+        "male"
+      ],
+      "cobblemon:bunnelby": [
+        "male",
+        "female"
+      ],
+      "cobblemon:linoone": [
+        "female"
+      ],
+      "cobblemon:zigzagoon": [
+        "male"
+      ],
+      "cobblemon:wyrdeer": [
+        "female"
+      ],
+      "cobblemon:moltres": [
+        "genderless"
+      ],
+      "cobblemon:araquanid": [
+        "female"
+      ],
+      "cobblemon:golduck": [
+        "female"
+      ],
+      "cobblemon:wailmer": [
+        "male"
+      ],
+      "cobblemon:kommoo": [
+        "female"
+      ],
+      "cobblemon:krookodile": [
+        "female"
+      ],
+      "cobblemon:beartic": [
+        "male"
+      ],
+      "cobblemon:zarude": [
+        "genderless"
+      ],
+      "cobblemon:electivire": [
+        "female"
+      ],
+      "cobblemon:charizard": [
+        "female"
+      ],
+      "cobblemon:grimmsnarl": [
+        "male"
+      ],
+      "cobblemon:cradily": [
+        "male"
+      ],
+      "cobblemon:carnivine": [
+        "female"
+      ],
+      "cobblemon:regirock": [
+        "genderless"
+      ],
+      "cobblemon:arctozolt": [
+        "genderless"
+      ],
+      "cobblemon:claydol": [
+        "genderless"
+      ],
+      "cobblemon:walkingwake": [
+        "genderless"
+      ],
+      "cobblemon:walrein": [
+        "female"
+      ],
+      "cobblemon:sawsbuck": [
+        "male",
+        "spring"
+      ],
+      "cobblemon:golurk": [
+        "genderless"
+      ],
+      "cobblemon:steelix": [
+        "female"
+      ],
+      "cobblemon:farigiraf": [
+        "male"
+      ],
+      "cobblemon:cetitan": [
+        "male"
+      ],
+      "cobblemon:salamence": [
+        "male"
+      ],
+      "cobblemon:hatterene": [
+        "female"
+      ],
+      "cobblemon:magmortar": [
+        "male"
+      ],
+      "cobblemon:feraligatr": [
+        "male"
+      ]
+    }
+  }
+}

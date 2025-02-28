@@ -10,3 +10,5 @@
 /spawnpokemon meowth galarian
 /spawnpokemon meowth galarian shiny
 /spawnpokemon articuno galarian shiny
+/time set day
+/spawnallpokemon

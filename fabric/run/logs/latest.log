@@ -1,6 +1,7 @@
-[18:24:11] [main/WARN] (FabricLoader/Knot) Class path entries reference missing files: E:\MINECRAFT MODS\CobbleExtraData\fabric\build\classes\kotlin\main - the game may not load properly!
-[18:24:11] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.1 with Fabric Loader 0.16.10
-[18:24:11] [main/INFO] (FabricLoader) Loading 62 mods:
+[18:13:04] [main/WARN] (FabricLoader/Knot) Class path entries reference missing files: E:\MINECRAFT MODS\CobbleExtraData\fabric\build\classes\kotlin\main - the game may not load properly!
+[18:13:04] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.21.1 with Fabric Loader 0.16.10
+[18:13:04] [main/INFO] (FabricLoader) Loading 63 mods:
+	- cobblemarks 1.0.0-SNAPSHOT
 	- cobblemon 1.6.1+1.21.1
 	- cobblemonextradata 1.0.0-SNAPSHOT
 	- fabric-api 0.115.1+1.21.1
@@ -55,282 +56,496 @@
 	- fabric-transfer-api-v1 5.4.2+c24bd99419
 	- fabric-transitive-access-wideners-v1 6.2.0+45b9699719
 	- fabricloader 0.16.10
-	- generated_5b674cb 1.0.0
-	- generated_ce19ed5 1.0.0
-	- generated_e73995e 1.0.0
+	- generated_40e9ce4 1.0.0
+	- generated_53afeb5 1.0.0
+	- generated_b35e6d9 1.0.0
 	- java 21
 	- minecraft 1.21.1
 	- mixinextras 0.4.1
 	- modmenu 11.0.3
 	   \-- placeholder-api 2.4.0-pre.2+1.21
-[18:24:17] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/home%20pc/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
-[18:24:17] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
-[18:24:17] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
-[18:24:17] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
-[18:24:18] [main/WARN] (FabricLoader/Mixin) Error loading class: juuxel/adorn/block/variant/BlockVariantSets (java.lang.ClassNotFoundException: juuxel/adorn/block/variant/BlockVariantSets)
-[18:24:18] [main/WARN] (FabricLoader/Mixin) @Mixin target juuxel.adorn.block.variant.BlockVariantSets was not found mixins.cobblemon-common.json:invoker.AdornRegisterInvoker from mod cobblemon
-[18:24:18] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18:24:19] [Datafixer Bootstrap/INFO] (Minecraft) 226 Datafixer optimizations took 439 milliseconds
-[18:24:25] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:24:25] [Render thread/INFO] (Minecraft) Setting user: Player247
-[18:24:25] [Render thread/INFO] (CobbleExtraData) Server-side initialization complete.
-[18:24:25] [Render thread/INFO] (Cobblemon) Booting LaxPermissionValidator, permissions will be checked using Minecrafts permission level system, see https://minecraft.fandom.com/wiki/Permission_level
-[18:24:25] [Render thread/INFO] (Cobblemon) Launching Cobblemon 1.6.1 
-[18:24:26] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:pokemon
-[18:24:26] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:empty_pokeball
-[18:24:26] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:boat
-[18:24:26] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:chest_boat
-[18:24:26] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:poke_bobber
-[18:24:26] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:generic_bedrock
-[18:24:26] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:npc
-[18:24:27] [Render thread/INFO] (Cobblemon) Starting the Best Spawner...
-[18:24:27] [Render thread/INFO] (Cobblemon) Loaded 7 spawning condition types.
-[18:24:27] [Render thread/INFO] (Cobblemon) Loaded 6 spawning context types.
-[18:24:27] [Render thread/INFO] (Cobblemon) Loaded 2 spawn detail types.
-[18:24:27] [Cobblemon Showdown/INFO] (Cobblemon) Starting showdown service...
-[18:24:29] [Cobblemon Showdown/INFO] (Cobblemon) Showdown has been started!
-[18:24:29] [Render thread/INFO] (Cobblemon) Note: Cobblemon data registries are only loaded once per server instance as Pokémon species are not safe to reload.
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:molang registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:species_features registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:global_species_features registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:species_feature_assignments registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:action_effects registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:moves registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:abilities registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:brain_presets registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:species registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:species_additions registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:pokeballs registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:properties_tab_completion registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:spawn_detail_presets registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:spawn_rules registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:mechanics registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:bag_items registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:dialogues registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:natural_materials registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:fossils registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:npc_preset registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:npc registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:dex_entries registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:dex_entry_additions registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:dexes registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:dex_additions registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:flows registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:spawn_pool_world registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:pokerods registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:berries registry
-[18:24:29] [Render thread/INFO] (Cobblemon) Registered the cobblemon:fishing_baits registry
-[18:24:29] [Render thread/INFO] (CobbleExtraData) Keybinding registered.
-[18:24:29] [Render thread/INFO] (CobbleExtraData) Client-side initialization complete.
-[18:24:29] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
-[18:24:29] [Render thread/INFO] (Mod Menu/Update Checker) Checking mod updates...
-[18:24:29] [Render thread/INFO] (Cobblemon) Initializing Cobblemon client
-[18:24:29] [Render thread/INFO] (Cobblemon) Registering Pokémon renderer
-[18:24:29] [Render thread/INFO] (Cobblemon) Registering PokéBall renderer
-[18:24:29] [Render thread/INFO] (Cobblemon) Registering Boat renderer
-[18:24:29] [Render thread/INFO] (Cobblemon) Registering Boat with Chest renderer
-[18:24:29] [Render thread/INFO] (Cobblemon) Registering Generic Bedrock renderer
-[18:24:29] [Render thread/INFO] (Cobblemon) Registering Generic Bedrock Entity renderer
-[18:24:29] [Render thread/INFO] (Cobblemon) Registering PokeRod Bobber renderer
-[18:24:29] [Render thread/INFO] (Cobblemon) Registering NPC renderer
-[18:24:29] [Render thread/INFO] (Cobblemon) Registering custom BuiltinItemRenderers
-[18:24:30] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
-[18:24:31] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, cobblemon, cobblemonextradata, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, modmenu, cobblemon:regionbiasforms, cobblemon:gyaradosjump
-[18:24:31] [Worker-Main-2/INFO] (Minecraft) Found unifont_all_no_pua-15.1.05.hex, loading
-[18:24:31] [Worker-Main-11/INFO] (Minecraft) Found unifont_jp_patch-15.1.05.hex, loading
-[18:24:31] [Worker-Main-8/WARN] (Minecraft) Texture cobblemon:block/razz_sprout with size 8x4 limits mip level from 4 to 2
-[18:24:31] [Worker-Main-8/WARN] (Minecraft) minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 2, because of minimum power of two: 4
-[18:24:33] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:item.goat_horn.play
-[18:24:33] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[18:24:33] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Headphones (High Definition Audio Device)
-[18:24:33] [Render thread/INFO] (Minecraft) Sound engine started
-[18:24:33] [Render thread/INFO] (Minecraft) Created: 1024x1024x2 minecraft:textures/atlas/blocks.png-atlas
-[18:24:33] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[18:24:33] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[18:24:33] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[18:24:33] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[18:24:33] [Render thread/INFO] (Minecraft) Created: 128x128x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[18:24:33] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[18:24:33] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[18:24:33] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[18:24:34] [Render thread/INFO] (Minecraft) Created: 2048x2048x0 minecraft:textures/atlas/particles.png-atlas
-[18:24:34] [Render thread/WARN] (Minecraft) Missing particle sprites: cobblemon:shiny_sparkle_rainbow
-[18:24:34] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
-[18:24:34] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[18:24:34] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
-[18:24:34] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
-[18:24:34] [Render thread/WARN] (Minecraft) Shader cobblemon:particle_add could not find sampler named Sampler2 in the specified shader program.
-[18:24:34] [Render thread/WARN] (Minecraft) Shader cobblemon:particle_cutout could not find sampler named Sampler2 in the specified shader program.
-[18:24:34] [Render thread/WARN] (Minecraft) Shader rendertype_entity_cutout could not find uniform named IViewRotMat in the specified shader program.
-[18:24:34] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent could not find uniform named IViewRotMat in the specified shader program.
-[18:24:34] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[18:24:34] [Render thread/INFO] (Minecraft) Created: 128x128x0 cobblemon:textures/atlas/berries.png-atlas
-[18:24:34] [Render thread/INFO] (Cobblemon) Loading assets...
-[18:24:34] [Render thread/INFO] (Cobblemon) Loading particle effects...
-[18:24:34] [Render thread/INFO] (Cobblemon) Loaded 607 particle effects
-[18:24:34] [Render thread/INFO] (Cobblemon) Loading animations...
-[18:24:36] [Render thread/INFO] (Cobblemon) Loaded 5768 animations from 808 animation groups
-[18:24:36] [Render thread/INFO] (Cobblemon) Loading Pokémon assets...
-[18:24:37] [Render thread/INFO] (Cobblemon) Loaded 879 Pokémon models.
-[18:24:37] [Render thread/INFO] (Cobblemon) Loaded 780 Pokémon posers.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 2064 Pokémon variations.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loading Poké Ball assets...
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 2 Poké Ball models.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 48 Poké Ball posers.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 49 Poké Ball variations.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loading NPC assets...
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 4 NPC models.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 1 NPC posers.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 6 NPC variations.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loading Fossil Pokémon assets...
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 19 Fossil Pokémon models.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 19 Fossil Pokémon posers.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 19 Fossil Pokémon variations.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loading Block Entity assets...
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 1 Block Entity models.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 1 Block Entity posers.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 14 Block Entity variations.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loading Generic assets...
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 1 Generic models.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 1 Generic posers.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 1 Generic variations.
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 71 berry models
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded 5 misc models
-[18:24:38] [Render thread/INFO] (Cobblemon) Loaded assets
-[18:24:46] [Render thread/INFO] (Minecraft) Loaded 1782 recipes
-[18:24:47] [Render thread/INFO] (Minecraft) Loaded 1925 advancements
-[18:24:47] [Render thread/INFO] (Cobblemon) Loaded 5 server scripts and 1 client scripts
-[18:24:49] [Render thread/INFO] (Cobblemon) Loaded 936 moves
-[18:24:49] [Render thread/INFO] (Cobblemon) Loaded 314 abilities
-[18:24:49] [Render thread/INFO] (Cobblemon) Finished additions
-[18:24:50] [cobblemon Datafixer Bootstrap/INFO] (Minecraft) 2 Datafixer optimizations took 0 milliseconds
-[18:24:50] [Render thread/INFO] (Cobblemon) Imported 259 held item IDs from showdown
-[18:24:50] [Render thread/INFO] (Cobblemon) Loaded 1025 Pokémon species
-[18:24:50] [Render thread/INFO] (Cobblemon) Loaded 25 spawn detail presets.
-[18:24:50] [Render thread/INFO] (Cobblemon) Starting dummy Showdown battle to force it to pre-load data.
-[18:24:51] [Render thread/INFO] (Cobblemon) Loaded 15 fossils
-[18:24:51] [Render thread/ERROR] (ModNioResourcePack) Invalid path in mod resource-pack cobblemon: cobblemon:dex_entry_additions/README.md, ignoring
-[18:24:51] [Render thread/ERROR] (ModNioResourcePack) Invalid path in mod resource-pack cobblemon: cobblemon:dex_additions/README.md, ignoring
-[18:24:51] [Render thread/INFO] (Cobblemon) Loaded 1 flows and 0 client flows
-[18:24:52] [Render thread/INFO] (Cobblemon) Loaded 69 berries
-[18:24:52] [Render thread/INFO] (BiomeModificationImpl) Applied 541 biome modifications to 64 of 64 new biomes in 14.49 ms
-[18:24:52] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21.1
-[18:24:52] [Server thread/INFO] (Minecraft) Generating keypair
-[18:24:53] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
-[18:24:54] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
-[18:24:54] [Render thread/INFO] (Minecraft) Time elapsed: 333 ms
-[18:24:54] [Server thread/WARN] (TranslationConventionLogWarnings) 
+[18:13:10] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/C:/Users/home%20pc/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/6a12aacc794f1078458433116e9ed42c1cc98096/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=CLIENT
+[18:13:10] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[18:13:10] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_17
+[18:13:10] [main/INFO] (FabricLoader/Mixin) Compatibility level set to JAVA_21
+[18:13:11] [main/WARN] (FabricLoader/Mixin) Error loading class: juuxel/adorn/block/variant/BlockVariantSets (java.lang.ClassNotFoundException: juuxel/adorn/block/variant/BlockVariantSets)
+[18:13:11] [main/WARN] (FabricLoader/Mixin) @Mixin target juuxel.adorn.block.variant.BlockVariantSets was not found mixins.cobblemon-common.json:invoker.AdornRegisterInvoker from mod cobblemon
+[18:13:12] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:13:13] [Datafixer Bootstrap/INFO] (Minecraft) 226 Datafixer optimizations took 402 milliseconds
+[18:13:19] [Render thread/INFO] (Minecraft) Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:13:19] [Render thread/INFO] (Minecraft) Setting user: Player850
+[18:13:19] [Render thread/INFO] (CobbleMarks) Server-side initialization complete.
+[18:13:19] [Render thread/INFO] (Cobblemon) Booting LaxPermissionValidator, permissions will be checked using Minecrafts permission level system, see https://minecraft.fandom.com/wiki/Permission_level
+[18:13:19] [Render thread/INFO] (Cobblemon) Launching Cobblemon 1.6.1 
+[18:13:19] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:pokemon
+[18:13:19] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:empty_pokeball
+[18:13:19] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:boat
+[18:13:19] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:chest_boat
+[18:13:19] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:poke_bobber
+[18:13:19] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:generic_bedrock
+[18:13:19] [Render thread/ERROR] (Minecraft) No data fixer registered for cobblemon:npc
+[18:13:20] [Render thread/INFO] (Cobblemon) Starting the Best Spawner...
+[18:13:20] [Render thread/INFO] (Cobblemon) Loaded 7 spawning condition types.
+[18:13:20] [Render thread/INFO] (Cobblemon) Loaded 6 spawning context types.
+[18:13:20] [Render thread/INFO] (Cobblemon) Loaded 2 spawn detail types.
+[18:13:20] [Cobblemon Showdown/INFO] (Cobblemon) Starting showdown service...
+[18:13:22] [Cobblemon Showdown/INFO] (Cobblemon) Showdown has been started!
+[18:13:22] [Render thread/INFO] (Cobblemon) Note: Cobblemon data registries are only loaded once per server instance as Pokémon species are not safe to reload.
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:molang registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:species_features registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:global_species_features registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:species_feature_assignments registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:action_effects registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:moves registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:abilities registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:brain_presets registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:species registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:species_additions registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:pokeballs registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:properties_tab_completion registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:spawn_detail_presets registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:spawn_rules registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:mechanics registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:bag_items registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:dialogues registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:natural_materials registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:fossils registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:npc_preset registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:npc registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:dex_entries registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:dex_entry_additions registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:dexes registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:dex_additions registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:flows registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:spawn_pool_world registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:pokerods registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:berries registry
+[18:13:22] [Render thread/INFO] (Cobblemon) Registered the cobblemon:fishing_baits registry
+[18:13:22] [Render thread/INFO] (CobbleExtraData) Server-side initialization complete.
+[18:13:22] [Render thread/INFO] (Indigo) [Indigo] Registering Indigo renderer!
+[18:13:23] [Render thread/INFO] (Cobblemon) Initializing Cobblemon client
+[18:13:23] [Render thread/INFO] (Cobblemon) Registering Pokémon renderer
+[18:13:23] [Render thread/INFO] (Cobblemon) Registering PokéBall renderer
+[18:13:23] [Render thread/INFO] (Cobblemon) Registering Boat renderer
+[18:13:23] [Render thread/INFO] (Cobblemon) Registering Boat with Chest renderer
+[18:13:23] [Render thread/INFO] (Cobblemon) Registering Generic Bedrock renderer
+[18:13:23] [Render thread/INFO] (Cobblemon) Registering Generic Bedrock Entity renderer
+[18:13:23] [Render thread/INFO] (Cobblemon) Registering PokeRod Bobber renderer
+[18:13:23] [Render thread/INFO] (Cobblemon) Registering NPC renderer
+[18:13:23] [Render thread/INFO] (Cobblemon) Registering custom BuiltinItemRenderers
+[18:13:23] [Render thread/INFO] (Mod Menu/Update Checker) Checking mod updates...
+[18:13:23] [Render thread/INFO] (CobbleExtraData) Keybinding registered.
+[18:13:23] [Render thread/INFO] (CobbleExtraData) Client-side initialization complete.
+[18:13:23] [Render thread/INFO] (Minecraft) Backend library: LWJGL version 3.3.3-snapshot
+[18:13:25] [Render thread/INFO] (Minecraft) Reloading ResourceManager: vanilla, fabric, cobblemon, cobblemonextradata, fabric-api, fabric-api-base, fabric-api-lookup-api-v1, fabric-biome-api-v1, fabric-block-api-v1, fabric-block-view-api-v2, fabric-blockrenderlayer-v1, fabric-client-tags-api-v1, fabric-command-api-v1, fabric-command-api-v2, fabric-commands-v0, fabric-content-registries-v0, fabric-convention-tags-v1, fabric-convention-tags-v2, fabric-crash-report-info-v1, fabric-data-attachment-api-v1, fabric-data-generation-api-v1, fabric-dimensions-v1, fabric-entity-events-v1, fabric-events-interaction-v0, fabric-game-rule-api-v1, fabric-gametest-api-v1, fabric-item-api-v1, fabric-item-group-api-v1, fabric-key-binding-api-v1, fabric-keybindings-v0, fabric-language-kotlin, fabric-lifecycle-events-v1, fabric-loot-api-v2, fabric-loot-api-v3, fabric-message-api-v1, fabric-model-loading-api-v1, fabric-networking-api-v1, fabric-object-builder-api-v1, fabric-particles-v1, fabric-recipe-api-v1, fabric-registry-sync-v0, fabric-renderer-api-v1, fabric-renderer-indigo, fabric-renderer-registries-v1, fabric-rendering-data-attachment-v1, fabric-rendering-fluids-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-resource-conditions-api-v1, fabric-resource-loader-v0, fabric-screen-api-v1, fabric-screen-handler-api-v1, fabric-sound-api-v1, fabric-transfer-api-v1, fabric-transitive-access-wideners-v1, fabricloader, modmenu, cobblemon:regionbiasforms, cobblemon:gyaradosjump
+[18:13:25] [Worker-Main-1/INFO] (Minecraft) Found unifont_all_no_pua-15.1.05.hex, loading
+[18:13:25] [Worker-Main-8/INFO] (Minecraft) Found unifont_jp_patch-15.1.05.hex, loading
+[18:13:26] [Worker-Main-2/WARN] (Minecraft) Texture cobblemon:block/razz_sprout with size 8x4 limits mip level from 4 to 2
+[18:13:26] [Worker-Main-2/WARN] (Minecraft) minecraft:textures/atlas/blocks.png: dropping miplevel from 4 to 2, because of minimum power of two: 4
+[18:13:27] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:item.goat_horn.play
+[18:13:27] [Render thread/WARN] (Minecraft) Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[18:13:27] [Render thread/INFO] (Minecraft) OpenAL initialized on device OpenAL Soft on Headphones (High Definition Audio Device)
+[18:13:27] [Render thread/INFO] (Minecraft) Sound engine started
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 1024x1024x2 minecraft:textures/atlas/blocks.png-atlas
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 2048x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 128x128x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 2048x2048x0 minecraft:textures/atlas/particles.png-atlas
+[18:13:28] [Render thread/WARN] (Minecraft) Missing particle sprites: cobblemon:shiny_sparkle_rainbow
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 512x256x0 minecraft:textures/atlas/paintings.png-atlas
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 64x64x0 minecraft:textures/atlas/map_decorations.png-atlas
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 1024x512x0 minecraft:textures/atlas/gui.png-atlas
+[18:13:28] [Render thread/WARN] (Minecraft) Shader cobblemon:particle_add could not find sampler named Sampler2 in the specified shader program.
+[18:13:28] [Render thread/WARN] (Minecraft) Shader cobblemon:particle_cutout could not find sampler named Sampler2 in the specified shader program.
+[18:13:28] [Render thread/WARN] (Minecraft) Shader rendertype_entity_cutout could not find uniform named IViewRotMat in the specified shader program.
+[18:13:28] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent could not find uniform named IViewRotMat in the specified shader program.
+[18:13:28] [Render thread/WARN] (Minecraft) Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[18:13:28] [Render thread/INFO] (Minecraft) Created: 128x128x0 cobblemon:textures/atlas/berries.png-atlas
+[18:13:28] [Render thread/INFO] (Cobblemon) Loading assets...
+[18:13:28] [Render thread/INFO] (Cobblemon) Loading particle effects...
+[18:13:28] [Render thread/INFO] (Cobblemon) Loaded 607 particle effects
+[18:13:28] [Render thread/INFO] (Cobblemon) Loading animations...
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 5768 animations from 808 animation groups
+[18:13:31] [Render thread/INFO] (Cobblemon) Loading Pokémon assets...
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 879 Pokémon models.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 780 Pokémon posers.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 2064 Pokémon variations.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loading Poké Ball assets...
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 2 Poké Ball models.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 48 Poké Ball posers.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 49 Poké Ball variations.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loading NPC assets...
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 4 NPC models.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 1 NPC posers.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 6 NPC variations.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loading Fossil Pokémon assets...
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 19 Fossil Pokémon models.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 19 Fossil Pokémon posers.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 19 Fossil Pokémon variations.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loading Block Entity assets...
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 1 Block Entity models.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 1 Block Entity posers.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 14 Block Entity variations.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loading Generic assets...
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 1 Generic models.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 1 Generic posers.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 1 Generic variations.
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 71 berry models
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded 5 misc models
+[18:13:31] [Render thread/INFO] (Cobblemon) Loaded assets
+[18:15:40] [Render thread/INFO] (Minecraft) Loaded 1782 recipes
+[18:15:40] [Render thread/INFO] (Minecraft) Loaded 1925 advancements
+[18:15:40] [Render thread/INFO] (Cobblemon) Loaded 5 server scripts and 1 client scripts
+[18:15:43] [Render thread/INFO] (Cobblemon) Loaded 936 moves
+[18:15:43] [Render thread/INFO] (Cobblemon) Loaded 314 abilities
+[18:15:43] [Render thread/INFO] (Cobblemon) Finished additions
+[18:15:44] [cobblemon Datafixer Bootstrap/INFO] (Minecraft) 2 Datafixer optimizations took 1 milliseconds
+[18:15:44] [Render thread/INFO] (Cobblemon) Imported 259 held item IDs from showdown
+[18:15:44] [Render thread/INFO] (Cobblemon) Loaded 1025 Pokémon species
+[18:15:44] [Render thread/INFO] (Cobblemon) Loaded 25 spawn detail presets.
+[18:15:44] [Render thread/INFO] (Cobblemon) Starting dummy Showdown battle to force it to pre-load data.
+[18:15:45] [Render thread/INFO] (Cobblemon) Loaded 15 fossils
+[18:15:45] [Render thread/ERROR] (ModNioResourcePack) Invalid path in mod resource-pack cobblemon: cobblemon:dex_entry_additions/README.md, ignoring
+[18:15:45] [Render thread/ERROR] (ModNioResourcePack) Invalid path in mod resource-pack cobblemon: cobblemon:dex_additions/README.md, ignoring
+[18:15:45] [Render thread/INFO] (Cobblemon) Loaded 1 flows and 0 client flows
+[18:15:46] [Render thread/INFO] (Cobblemon) Loaded 69 berries
+[18:15:46] [Render thread/INFO] (BiomeModificationImpl) Applied 541 biome modifications to 64 of 64 new biomes in 17.18 ms
+[18:15:46] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.21.1
+[18:15:46] [Server thread/INFO] (Minecraft) Generating keypair
+[18:15:47] [Server thread/INFO] (Minecraft) Preparing start region for dimension minecraft:overworld
+[18:15:48] [Render thread/INFO] (Minecraft) Preparing spawn area: 0%
+[18:15:48] [Render thread/INFO] (Minecraft) Time elapsed: 373 ms
+[18:15:48] [Server thread/WARN] (TranslationConventionLogWarnings) 
 	Dev warning - Untranslated Item Tags detected. Please translate your item tags so other mods such as recipe viewers can properly display your tag's name.
 	The format desired is tag.item.<namespace>.<path> for the translation key with slashes in path turned into periods.
 	To disable this message, set this system property in your runs: `-Dfabric-tag-conventions-v2.missingTagTranslationWarning=SILENCED`.
 	To see individual untranslated item tags found, set the system property to `-Dfabric-tag-conventions-v2.missingTagTranslationWarning=VERBOSE`.
 	Default is `SHORT`.
 
-[18:24:54] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
-[18:24:54] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
-[18:24:55] [Server thread/INFO] (Minecraft) Player247[local:E:03d844a5] logged in with entity id 18 at (-181.73776974635857, 71.0, 96.00159771775353)
-[18:24:55] [Server thread/INFO] (Minecraft) Player247 joined the game
-[18:24:55] [Server thread/INFO] (Minecraft) Player247 has made the advancement [The First of Many]
-[18:24:55] [Render thread/INFO] (Minecraft) [System] [CHAT] Player247 has made the advancement [The First of Many]
-[18:24:55] [Render thread/INFO] (Minecraft) Loaded 22 advancements
-[18:24:57] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[18:24:57] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[18:24:57] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[18:24:57] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[18:25:00] [Render thread/INFO] (CobbleExtraData) No Pokémon in the active slot.
-[18:25:01] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[18:25:01] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[18:25:01] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[18:25:01] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[18:25:01] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
-[18:25:01] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-27
-[18:25:01] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
-[18:25:01] [Server thread/INFO] (CobbleExtraData) Met Level: 10
-[18:25:01] [Server thread/INFO] (Minecraft) Player247 has made the advancement [The World of Cobblemon!]
-[18:25:01] [Render thread/INFO] (Minecraft) [System] [CHAT] Player247 has made the advancement [The World of Cobblemon!]
-[18:25:02] [Render thread/INFO] (Minecraft) Loaded 33 advancements
-[18:25:03] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[18:25:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[18:25:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[18:25:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[18:25:23] [Server thread/INFO] (Minecraft) [Player247: Gave Meowth to Player247.]
-[18:25:23] [Render thread/INFO] (Minecraft) [System] [CHAT] Gave Meowth to Player247.
-[18:25:25] [Render thread/WARN] (Minecraft) Failed to load texture: cobblemonextradata:textures/origin/.png
-java.io.FileNotFoundException: cobblemonextradata:textures/origin/.png
-	at knot/net.minecraft.server.packs.resources.ResourceProvider.method_43043(ResourceProvider.java:23) ~[minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at java.base/java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at knot/net.minecraft.server.packs.resources.ResourceProvider.getResourceOrThrow(ResourceProvider.java:23) ~[minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/net.minecraft.client.renderer.texture.SimpleTexture$TextureImage.load(SimpleTexture.java:83) ~[minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/net.minecraft.client.renderer.texture.SimpleTexture.getTextureImage(SimpleTexture.java:58) ~[minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/net.minecraft.client.renderer.texture.SimpleTexture.load(SimpleTexture.java:29) ~[minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/net.minecraft.client.renderer.texture.TextureManager.loadTexture(TextureManager.java:96) ~[minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/net.minecraft.client.renderer.texture.TextureManager.register(TextureManager.java:68) ~[minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/net.minecraft.client.renderer.texture.TextureManager.getTexture(TextureManager.java:118) ~[minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/com.mojang.blaze3d.systems.RenderSystem._setShaderTexture(RenderSystem.java:761) ~[minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/com.mojang.blaze3d.systems.RenderSystem.setShaderTexture(RenderSystem.java:754) ~[minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/com.cobblemon.fabric.example.PokemonInfoScreen.render(PokemonInfoScreen.java:123) ~[main/:?]
-	at knot/net.minecraft.client.gui.screens.Screen.renderWithTooltip(Screen.java:117) ~[minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/net.minecraft.client.renderer.GameRenderer.mixinextras$bridge$renderWithTooltip$180(GameRenderer.java) ~[minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/net.minecraft.client.renderer.GameRenderer.wrapOperation$znf000$fabric-screen-api-v1$onRenderScreen(GameRenderer.java:2086) [minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/net.minecraft.client.renderer.GameRenderer.render(GameRenderer.java:913) [minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/net.minecraft.client.Minecraft.runTick(Minecraft.java:1285) [minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/net.minecraft.client.Minecraft.run(Minecraft.java:882) [minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at knot/net.minecraft.client.main.Main.main(Main.java:256) [minecraft-merged-69c5aa0da5-1.21.1-loom.mappings.1_21_1.layered+hash.40359-v2.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.10.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.10.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23) [fabric-loader-0.16.10.jar:?]
-	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86) [dev-launch-injector-0.2.1+build.8.jar:?]
-	at dev.architectury.transformer.TransformerRuntime.main(TransformerRuntime.java:220) [architectury-transformer-5.2.87-runtime.jar:5.2.87]
-[18:25:25] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[18:25:25] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[18:25:25] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[18:25:25] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[18:25:59] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
-[18:25:59] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-27
-[18:25:59] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
-[18:25:59] [Server thread/INFO] (CobbleExtraData) Met Level: 1
-[18:25:59] [Server thread/INFO] (Minecraft) Player247 has made the advancement [A New Friend!]
-[18:25:59] [Render thread/INFO] (Minecraft) [System] [CHAT] Player247 has made the advancement [A New Friend!]
-[18:25:59] [Render thread/INFO] (Minecraft) Loaded 37 advancements
-[18:25:59] [Sound engine/ERROR] (Minecraft) Creating buffer: Invalid parameter parameter value.
-[18:26:03] [Sound engine/ERROR] (Minecraft) Creating buffer: Invalid parameter parameter value.
-[18:26:06] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
-[18:26:06] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-27
-[18:26:06] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
-[18:26:06] [Server thread/INFO] (CobbleExtraData) Met Level: 1
-[18:26:06] [Server thread/INFO] (Minecraft) Player247 has completed the challenge [Lucky Color]
-[18:26:06] [Render thread/INFO] (Minecraft) [System] [CHAT] Player247 has completed the challenge [Lucky Color]
-[18:26:07] [Render thread/INFO] (Minecraft) Loaded 37 advancements
-[18:26:15] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[18:26:15] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[18:26:15] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[18:26:15] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[18:26:17] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[18:26:17] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[18:26:17] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[18:26:17] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[18:26:20] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[18:26:20] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[18:26:20] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[18:26:20] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[18:26:41] [Render thread/INFO] (Minecraft) [System] [CHAT] The Articuno is busy!
-[18:26:42] [Sound engine/ERROR] (Minecraft) Creating buffer: Invalid parameter parameter value.
-[18:26:46] [Sound engine/ERROR] (Minecraft) Creating buffer: Invalid parameter parameter value.
-[18:26:50] [Sound engine/ERROR] (Minecraft) Creating buffer: Invalid parameter parameter value.
-[18:26:50] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
-[18:26:50] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-27
-[18:26:50] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
-[18:26:50] [Server thread/INFO] (CobbleExtraData) Met Level: 1
-[18:27:03] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[18:27:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[18:27:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[18:27:03] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[18:27:05] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[18:27:05] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[18:27:05] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[18:27:05] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[18:27:09] [Server thread/INFO] (Minecraft) Saving and pausing game...
-[18:27:09] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
-[18:27:09] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
-[18:27:09] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
-[18:27:18] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2025-02-27_18.27.18.png
+[18:15:48] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[18:15:48] [Server thread/INFO] (Minecraft) Changing simulation distance to 12, from 0
+[18:15:49] [Server thread/INFO] (Minecraft) Player850[local:E:64797f7b] logged in with entity id 19 at (383.7408438365942, 80.0, 418.78383963985357)
+[18:15:49] [Server thread/INFO] (Minecraft) Player850 joined the game
+[18:15:49] [Server thread/INFO] (Minecraft) Player850 has made the advancement [The First of Many]
+[18:15:49] [Render thread/INFO] (Minecraft) [System] [CHAT] Player850 has made the advancement [The First of Many]
+[18:15:49] [Render thread/INFO] (Minecraft) Loaded 22 advancements
+[18:15:52] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:15:52] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18:15:52] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18:15:52] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18:15:52] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:15:52] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:15:52] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:snowy_plains
+[18:15:52] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:15:52] [Server thread/INFO] (Minecraft) Player850 has made the advancement [The World of Cobblemon!]
+[18:15:52] [Render thread/INFO] (Minecraft) [System] [CHAT] Player850 has made the advancement [The World of Cobblemon!]
+[18:15:52] [Render thread/INFO] (Minecraft) Loaded 33 advancements
+[18:16:06] [Server thread/INFO] (Minecraft) Player850 has made the advancement [A New Friend!]
+[18:16:06] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:16:06] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:16:06] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:snowy_plains
+[18:16:06] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:16:06] [Render thread/INFO] (Minecraft) [System] [CHAT] Player850 has made the advancement [A New Friend!]
+[18:16:06] [Render thread/INFO] (Minecraft) Loaded 37 advancements
+[18:16:06] [Render thread/INFO] (Minecraft) [System] [CHAT] Swinub woke up!
+[18:16:12] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:16:12] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:16:12] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:snowy_plains
+[18:16:12] [Server thread/INFO] (CobbleExtraData) Met Level: 11
+[18:16:12] [Render thread/INFO] (Minecraft) [System] [CHAT] Swinub woke up!
+[18:16:18] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:16:18] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:16:18] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:snowy_plains
+[18:16:18] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:16:21] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:16:21] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:16:21] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:snowy_plains
+[18:16:21] [Server thread/INFO] (CobbleExtraData) Met Level: 13
+[18:16:26] [Server thread/INFO] (Minecraft) Player850 has made the advancement [Full House]
+[18:16:26] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:16:26] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:16:26] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:snowy_plains
+[18:16:26] [Server thread/INFO] (CobbleExtraData) Met Level: 15
+[18:16:26] [Render thread/INFO] (Minecraft) [System] [CHAT] Player850 has made the advancement [Full House]
+[18:16:26] [Render thread/INFO] (Minecraft) Loaded 37 advancements
+[18:16:26] [Render thread/INFO] (Minecraft) [System] [CHAT] Swinub woke up!
+[18:16:30] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:16:30] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:16:30] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:snowy_plains
+[18:16:30] [Server thread/INFO] (CobbleExtraData) Met Level: 5
+[18:16:30] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Sentret has been added to Your PC.
+[18:16:33] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:16:33] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18:16:33] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18:16:33] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18:17:19] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:17:19] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:17:19] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:forest
+[18:17:19] [Server thread/INFO] (CobbleExtraData) Met Level: 19
+[18:17:19] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Ledian has been added to Your PC.
+[18:17:23] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:17:23] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:17:23] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:forest
+[18:17:23] [Server thread/INFO] (CobbleExtraData) Met Level: 17
+[18:17:23] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Weedle has been added to Your PC.
+[18:17:29] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:17:29] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:17:29] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:forest
+[18:17:29] [Server thread/INFO] (CobbleExtraData) Met Level: 11
+[18:17:29] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Lechonk has been added to Your PC.
+[18:17:38] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:17:38] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:17:38] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:forest
+[18:17:38] [Server thread/INFO] (CobbleExtraData) Met Level: 18
+[18:17:38] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Gimmighoul has been added to Your PC.
+[18:17:49] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:17:49] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:17:49] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:forest
+[18:17:49] [Server thread/INFO] (CobbleExtraData) Met Level: 19
+[18:17:49] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Hoothoot has been added to Your PC.
+[18:18:04] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:18:04] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:18:04] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:18:04] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:18:04] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Bunnelby has been added to Your PC.
+[18:18:19] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:18:19] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:18:19] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:18:19] [Server thread/INFO] (CobbleExtraData) Met Level: 20
+[18:18:19] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Linoone has been added to Your PC.
+[18:18:30] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:18:30] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:18:30] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:18:30] [Server thread/INFO] (CobbleExtraData) Met Level: 18
+[18:18:30] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Bunnelby has been added to Your PC.
+[18:18:35] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:18:35] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:18:35] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:18:35] [Server thread/INFO] (CobbleExtraData) Met Level: 19
+[18:18:35] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Sentret has been added to Your PC.
+[18:18:40] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:18:40] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:18:40] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:18:40] [Server thread/INFO] (CobbleExtraData) Met Level: 16
+[18:18:40] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Zigzagoon has been added to Your PC.
+[18:18:52] [Render thread/INFO] (Minecraft) [System] [CHAT] The Kommo-o is busy!
+[18:18:52] [Render thread/INFO] (Minecraft) [System] [CHAT] The Kommo-o is busy!
+[18:18:53] [Render thread/INFO] (Minecraft) [System] [CHAT] The Wailmer is busy!
+[18:18:55] [Render thread/INFO] (Minecraft) [System] [CHAT] The Carnivine is busy!
+[18:18:55] [Render thread/INFO] (Minecraft) [System] [CHAT] The Arctozolt is busy!
+[18:18:56] [Render thread/INFO] (Minecraft) [System] [CHAT] The Walking Wake is busy!
+[18:18:57] [Render thread/INFO] (Minecraft) [System] [CHAT] The Walrein is busy!
+[18:18:57] [Render thread/INFO] (Minecraft) [System] [CHAT] The Steelix is busy!
+[18:18:57] [Render thread/INFO] (Minecraft) [System] [CHAT] The Farigiraf is busy!
+[18:18:58] [Render thread/INFO] (Minecraft) [System] [CHAT] The Farigiraf is busy!
+[18:18:58] [Render thread/INFO] (Minecraft) [System] [CHAT] The Farigiraf is busy!
+[18:18:58] [Render thread/INFO] (Minecraft) [System] [CHAT] The Farigiraf is busy!
+[18:18:59] [Render thread/INFO] (Minecraft) [System] [CHAT] The Araquanid is busy!
+[18:18:59] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:18:59] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:18:59] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:18:59] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:18:59] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Wyrdeer has been added to Your PC.
+[18:18:59] [Render thread/INFO] (Minecraft) [System] [CHAT] The Charizard is busy!
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:00] [Render thread/INFO] (Minecraft) [System] [CHAT] The Charizard is busy!
+[18:19:00] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Moltres has been added to Your PC.
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:00] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Araquanid has been added to Your PC.
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:00] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Golduck has been added to Your PC.
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:00] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:00] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Wailmer has been added to Your PC.
+[18:19:01] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:01] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:01] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:01] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:01] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Kommo-o has been added to Your PC.
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:02] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Krookodile has been added to Your PC.
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:02] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Beartic has been added to Your PC.
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:02] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Zarude has been added to Your PC.
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:02] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:02] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Electivire has been added to Your PC.
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:03] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Charizard has been added to Your PC.
+[18:19:03] [Server thread/INFO] (CobbleMarks) Assigned uncommon mark ID 68 to Pokémon Grimmsnarl
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:03] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Grimmsnarl has been added to Your PC.
+[18:19:03] [Render thread/INFO] (Minecraft) [System] [CHAT] This Pokémon seems to have a special mark?
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:03] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Cradily has been added to Your PC.
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:03] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:03] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Carnivine has been added to Your PC.
+[18:19:04] [Server thread/INFO] (CobbleMarks) Assigned time-based mark ID 54 to Pokémon Regirock
+[18:19:04] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:04] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:04] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:04] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:04] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Regirock has been added to Your PC.
+[18:19:04] [Render thread/INFO] (Minecraft) [System] [CHAT] This Pokémon seems to have a special mark?
+[18:19:04] [Server thread/INFO] (CobbleMarks) Assigned time-based mark ID 54 to Pokémon Arctozolt
+[18:19:04] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:04] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:04] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:04] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:04] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Arctozolt has been added to Your PC.
+[18:19:04] [Render thread/INFO] (Minecraft) [System] [CHAT] This Pokémon seems to have a special mark?
+[18:19:04] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:04] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:04] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:04] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:04] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Claydol has been added to Your PC.
+[18:19:05] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:05] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:05] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:05] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:05] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Walking Wake has been added to Your PC.
+[18:19:05] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:05] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:05] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:05] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:05] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Walrein has been added to Your PC.
+[18:19:05] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:05] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:05] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:05] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:06] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Sawsbuck has been added to Your PC.
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:06] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Golurk has been added to Your PC.
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:06] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Steelix has been added to Your PC.
+[18:19:06] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Farigiraf has been added to Your PC.
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:06] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:06] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Cetitan has been added to Your PC.
+[18:19:07] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:07] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:07] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:07] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:07] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Salamence has been added to Your PC.
+[18:19:08] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:08] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:08] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:08] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:08] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Hatterene has been added to Your PC.
+[18:19:08] [Server thread/INFO] (CobbleMarks) Assigned uncommon mark ID 68 to Pokémon Magmortar
+[18:19:08] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:08] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:08] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:08] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:08] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Magmortar has been added to Your PC.
+[18:19:08] [Render thread/INFO] (Minecraft) [System] [CHAT] This Pokémon seems to have a special mark?
+[18:19:08] [Server thread/INFO] (CobbleExtraData) Pokémon event handled successfully:
+[18:19:08] [Server thread/INFO] (CobbleExtraData) Met Date: 2025-02-28
+[18:19:08] [Server thread/INFO] (CobbleExtraData) Met Biome: minecraft:plains
+[18:19:08] [Server thread/INFO] (CobbleExtraData) Met Level: 10
+[18:19:08] [Render thread/INFO] (Minecraft) [System] [CHAT] Your party was full! Feraligatr has been added to Your PC.
+[18:19:12] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:19:12] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18:19:12] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18:19:12] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18:19:18] [Render thread/ERROR] (Cobblemon) Failed to create animation by name faint, most likely something wrong in the MoLang
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: java.lang.IllegalArgumentException: Unable to evaluate expression: q.bedrock_primary('tepig', 'faint', q.curve('one'))
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.util.MoLangExtensionsKt.resolve(MoLangExtensionsKt.java:44)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.api.molang.SingleExpression.resolve(SingleExpression.java:26)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.api.molang.ExpressionLike$DefaultImpls.resolve$default(ExpressionLike.java:26)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.api.molang.ExpressionLike$DefaultImpls.resolveObject(ExpressionLike.java:34)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.api.molang.SingleExpression.resolveObject(SingleExpression.java:24)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.client.render.models.blockbench.PosableModel.resolveFromAnimationMap(PosableModel.java:210)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.client.render.models.blockbench.PosableModel.getAnimation(PosableModel.java:167)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.client.entity.PokemonClientDelegate.onSyncedDataUpdated(PokemonClientDelegate.java:115)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.entity.pokemon.PokemonEntity.onSyncedDataUpdated(PokemonEntity.java:335)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//net.minecraft.network.syncher.SynchedEntityData.assignValues(SynchedEntityData.java:118)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//net.minecraft.client.multiplayer.ClientPacketListener.handleSetEntityData(ClientPacketListener.java:553)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//net.minecraft.network.protocol.game.ClientboundSetEntityDataPacket.handle(ClientboundSetEntityDataPacket.java:54)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//net.minecraft.network.protocol.game.ClientboundSetEntityDataPacket.handle(ClientboundSetEntityDataPacket.java:12)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//net.minecraft.network.protocol.PacketUtils.method_11072(PacketUtils.java:27)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:162)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:23)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:136)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:121)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//net.minecraft.client.Minecraft.runTick(Minecraft.java:1240)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//net.minecraft.client.Minecraft.run(Minecraft.java:882)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//net.minecraft.client.main.Main.main(Main.java:256)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.loader.impl.launch.knot.KnotClient.main(KnotClient.java:23)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at net.fabricmc.devlaunchinjector.Main.main(Main.java:86)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at dev.architectury.transformer.TransformerRuntime.main(TransformerRuntime.java:220)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: Caused by: java.lang.IllegalArgumentException: Animation animation.tepig.faint not found in animation group tepig
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.client.render.models.blockbench.bedrock.animation.BedrockAnimationRepository.getAnimation(BedrockAnimationRepository.java:81)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.client.render.models.blockbench.PosableModel.bedrockStateful(PosableModel.java:742)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.client.render.models.blockbench.PosableModel.bedrockStateful$default(PosableModel.java:738)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.client.ClientMoLangFunctions.animationFunctions$lambda$8$lambda$7(ClientMoLangFunctions.java:66)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.bedrockk.molang.runtime.struct.QueryStruct.get(QueryStruct.java:25)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.bedrockk.molang.runtime.MoLangEnvironment.getValue(MoLangEnvironment.java:70)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.bedrockk.molang.ast.FuncCallExpression.evaluate(FuncCallExpression.java:37)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.bedrockk.molang.runtime.MoLangRuntime.execute(MoLangRuntime.java:36)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	at knot//com.cobblemon.mod.common.util.MoLangExtensionsKt.resolve(MoLangExtensionsKt.java:39)
+[18:19:18] [Render thread/INFO] (Minecraft) [STDERR]: 	... 25 more
+[18:19:19] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:19:19] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18:19:19] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18:19:19] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18:19:30] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[18:19:30] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:overworld
+[18:19:30] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_nether
+[18:19:30] [Server thread/INFO] (Minecraft) Saving chunks for level 'ServerLevel[New World]'/minecraft:the_end
+[18:19:36] [Render thread/INFO] (Minecraft) [System] [CHAT] Saved screenshot as 2025-02-28_18.19.35.png

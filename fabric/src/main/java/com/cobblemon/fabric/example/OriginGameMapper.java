@@ -62,6 +62,7 @@ public class OriginGameMapper {
 
         // Misc
         ORIGIN_GAME_TO_REGION.put("cobblemon", "Cobblemon");
+        ORIGIN_GAME_TO_REGION.put("any", "Cobblemon");
         ORIGIN_GAME_TO_REGION.put("go", "GO");
     }
 

@@ -8,7 +8,7 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 0,
+    "totalCaptureCount": 1,
     "totalEggsCollected": 0,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
@@ -18,8 +18,14 @@
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
-    "totalTypeCaptureCounts": {},
+    "totalTypeCaptureCounts": {
+      "ground": 1
+    },
     "totalDefeatedCounts": {},
-    "aspectsCollected": {}
+    "aspectsCollected": {
+      "cobblemon:mudbray": [
+        "female"
+      ]
+    }
   }
 }

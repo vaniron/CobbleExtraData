@@ -1,0 +1,111 @@
+{
+  "uuid": "7fef5833-06c9-398a-84c0-fbd3a81ff548",
+  "starterPrompted": true,
+  "starterLocked": false,
+  "starterSelected": true,
+  "starterUUID": "15c4599f-57d1-4e11-879e-c101c8a8247a",
+  "keyItems": [],
+  "battleTheme": "cobblemon:battle.pvp.default",
+  "extraData": {},
+  "advancementData": {
+    "totalCaptureCount": 53,
+    "totalEggsCollected": 0,
+    "totalEggsHatched": 0,
+    "totalEvolvedCount": 0,
+    "totalBattleVictoryCount": 0,
+    "totalPvPBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 0,
+    "totalPvNBattleVictoryCount": 0,
+    "totalShinyCaptureCount": 0,
+    "totalTradedCount": 0,
+    "totalTypeCaptureCounts": {
+      "normal": 30,
+      "electric": 7,
+      "bug": 9,
+      "flying": 11,
+      "ground": 2,
+      "fire": 3,
+      "grass": 3,
+      "fairy": 1,
+      "poison": 1
+    },
+    "totalDefeatedCounts": {},
+    "aspectsCollected": {
+      "cobblemon:patrat": [
+        "female"
+      ],
+      "cobblemon:mareep": [
+        "male",
+        "female"
+      ],
+      "cobblemon:flaaffy": [
+        "female"
+      ],
+      "cobblemon:miltank": [
+        "female",
+        "milkable"
+      ],
+      "cobblemon:vespiquen": [
+        "female"
+      ],
+      "cobblemon:mudbray": [
+        "female"
+      ],
+      "cobblemon:eevee": [
+        "male"
+      ],
+      "cobblemon:zigzagoon": [
+        "female",
+        "male"
+      ],
+      "cobblemon:bouffalant": [
+        "female"
+      ],
+      "cobblemon:ponyta": [
+        "male",
+        "female"
+      ],
+      "cobblemon:deerling": [
+        "female",
+        "spring"
+      ],
+      "cobblemon:ledyba": [
+        "male"
+      ],
+      "cobblemon:tauros": [
+        "male",
+        "combat-breed"
+      ],
+      "cobblemon:oinkologne": [
+        "male"
+      ],
+      "cobblemon:butterfree": [
+        "male"
+      ],
+      "cobblemon:bunnelby": [
+        "female",
+        "male"
+      ],
+      "cobblemon:combee": [
+        "male"
+      ],
+      "cobblemon:pidgey": [
+        "female",
+        "male"
+      ],
+      "cobblemon:lechonk": [
+        "female",
+        "male"
+      ],
+      "cobblemon:sentret": [
+        "male"
+      ],
+      "cobblemon:whimsicott": [
+        "male"
+      ],
+      "cobblemon:oddish": [
+        "male"
+      ]
+    }
+  }
+}

@@ -12,7 +12,7 @@ import net.minecraft.world.level.biome.Biome;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 public class EXTServer implements ModInitializer {
@@ -46,7 +46,7 @@ public class EXTServer implements ModInitializer {
         try {
             // Server-level logic for Pokémon event handling
             ServerLevel world = (ServerLevel) player.level();
-            LocalDate currentDate = LocalDate.now();
+            LocalDateTime currentDate = LocalDateTime.now();
             String metDate = currentDate.format(DateTimeFormatter.ofPattern("dd.MM.yyyy HH:mm"));
             pokemon.getPersistentData().putString("MetDate", metDate);
 

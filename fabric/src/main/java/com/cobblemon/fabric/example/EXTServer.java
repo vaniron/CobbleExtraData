@@ -47,7 +47,7 @@ public class EXTServer implements ModInitializer {
             // Server-level logic for Pokémon event handling
             ServerLevel world = (ServerLevel) player.level();
             LocalDate currentDate = LocalDate.now();
-            String metDate = currentDate.format(DateTimeFormatter.ISO_LOCAL_DATE);
+            String metDate = currentDate.format(DateTimeFormatter.ofPattern("dd.MM.yyyy HH:mm"));
             pokemon.getPersistentData().putString("MetDate", metDate);
 
             Biome biome = world.getBiome(player.blockPosition()).value();

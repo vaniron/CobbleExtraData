@@ -28,7 +28,9 @@ public class PokemonInfoScreen extends Screen {
     protected PokemonInfoScreen(Pokemon pokemon) {
         super(Component.literal("Pokémon Info"));
         this.pokemon = pokemon;
-        String originMarkSprite = pokemon.getPersistentData().getString("OriginGame").toLowerCase();
+        String originMarkSprite = pokemon.getPersistentData().contains("OriginGame")
+                ? pokemon.getPersistentData().getString("OriginGame").toLowerCase()
+                : "cobblemon";
 
         // Determine the sprite path based on whether the Pokémon is shiny and its form
         String speciesName = pokemon.getSpecies().getName().toLowerCase();
@@ -93,12 +95,16 @@ public class PokemonInfoScreen extends Screen {
         guiGraphics.drawString(this.font, "Pokémon Info", textX, textY, 0xFFFFFF, true);
 
         // Origin Game (with shadow)
-        String originGame = pokemon.getPersistentData().getString("OriginGame").toLowerCase();
+        String originGame = pokemon.getPersistentData().contains("OriginGame")
+                ? pokemon.getPersistentData().getString("OriginGame").toLowerCase()
+                : "cobblemon";
         String regionName = OriginGameMapper.getRegion(originGame);
         guiGraphics.drawString(this.font, "This Pokémon originated from " + regionName, textX, textY + 20, 0xFFFFFF, true);
 
         // Met Date (with shadow)
-        String dateString = pokemon.getPersistentData().getString("MetDate");
+        String dateString = pokemon.getPersistentData().contains("MetDate")
+                ? pokemon.getPersistentData().getString("MetDate")
+                : "Unknown";
         guiGraphics.drawString(this.font, dateString, textX, textY + 40, 0xFFFFFF, true);
 
         // Met Location (with shadow)
@@ -113,7 +119,10 @@ public class PokemonInfoScreen extends Screen {
         guiGraphics.drawString(this.font, metLocation, textX, textY + 60, 0xFFFFFF, true);
 
         // Met Level (with shadow)
-        guiGraphics.drawString(this.font, "Met at Lv. " + pokemon.getPersistentData().getInt("MetLevel") + ".", textX, textY + 80, 0xFFFFFF, true);
+        int metLevel = pokemon.getPersistentData().contains("MetLevel")
+                ? pokemon.getPersistentData().getInt("MetLevel")
+                : pokemon.getLevel();
+        guiGraphics.drawString(this.font, "Met at Lv. " + metLevel + ".", textX, textY + 80, 0xFFFFFF, true);
 
         // Draw the origin mark at the bottom right of the panel
         int originMarkSize = 16;

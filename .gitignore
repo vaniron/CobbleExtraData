@@ -1,2 +1,65 @@
+# Minecraft mod specific
 remapped_mods/
 remapped_working/
+
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# Eclipse
+*.launch
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# VSCode
+.vscode/
+.settings/
+.classpath
+.project
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Minecraft
+run/
+logs/
+*.log
+
+# Fabric
+.fabric/
+
+# NeoForge
+.neoforge/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Shortcut files
+*.lnk
+
+# Exclude gradle wrapper jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration file
+local.properties

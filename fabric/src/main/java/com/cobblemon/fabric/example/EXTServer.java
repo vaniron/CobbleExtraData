@@ -60,10 +60,10 @@ public class EXTServer implements ModInitializer {
 
             pokemon.getPersistentData().putString("OriginGame", "Cobblemon");
 
-            LOGGER.info("Pokémon event handled successfully:");
-            LOGGER.info("Met Date: {}", metDate);
-            LOGGER.info("Met Biome: {}", biomeName);
-            LOGGER.info("Met Level: {}", metLevel);
+            // LOGGER.info("Pokémon event handled successfully:");
+            // LOGGER.info("Met Date: {}", metDate);
+            // LOGGER.info("Met Biome: {}", biomeName);
+            // LOGGER.info("Met Level: {}", metLevel);
         } catch (Exception e) {
             logError("PokemonEvent", e);
         }
